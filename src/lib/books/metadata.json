@@ -1,0 +1,15 @@
+[{
+	"title": "Valkyrie X Truck",
+	"slug": "ValkyrieXTruck/chapter-1",
+	"coverImage": "valkyrietruck.png",
+	"description": "A man get's hit by a beautiful woman, setting off the end of the world",
+	"chapters": "23"
+}, 
+	{
+		"title": "book 2",
+		"slug": "vt-chapter1",
+		"coverImage": "valkyrietruck.png",
+		"description": "man gets hit by a truck, setting off the end of the world.",
+		"chapters": "23"
+	}
+]

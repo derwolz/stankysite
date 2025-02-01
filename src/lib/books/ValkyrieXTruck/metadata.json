@@ -1,0 +1,33 @@
+{
+	"title":"Valkyrie X Truck",
+	"author": "King Stanky",
+	"slug": "valkyrie-x-truck",
+	"totalChapters": 24,
+	"description": "A man gets hit with a truck, setting off the end of the world",
+	"planned": 5,
+	"chapters": 
+	{"chapter-1": 
+		{
+			"title": "Girl hits boy",
+			"slug": "chapter-1",
+			"images": [
+				"/images/books/valkyriextruck/chapters/chapter1/runacar.webp",
+				"/images/books/valkyriextruck/chapters/chapter1/voidanima.webp"
+				
+			]
+		},
+
+	"chapter-2": 
+		{
+			"title": "Girl hits boy",
+			"slug": "chapter-2",
+			"images": [
+				"/images/books/valkyriextruck/chapters/chapter1/runacar.webp",
+				"/images/books/valkyriextruck/chapters/chapter1/voidanima.webp"
+				
+			]
+		}
+	
+	}
+}
+

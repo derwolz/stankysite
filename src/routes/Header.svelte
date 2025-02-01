@@ -1,129 +1,129 @@
 <script>
-	import { page } from '$app/state';
-	import logo from '$lib/images/svelte-logo.svg';
-	import github from '$lib/images/github.svg';
+    import { onMount } from 'svelte';
+    import { page } from '$app/stores';
+    
+    let component;
+    let lastScrollY = 0;
+    let translateY = 0;
+    
+    function handleScroll(event) {
+        const currentDelta = event.deltaY;
+        console.log("currentDelta: ", currentDelta);
+        // Calculate new translate value
+       if (currentDelta >=0 ) {
+		    if (!component.classList.contains("hide-nav")){
+			    console.log('adding hide-nav', component.classList);
+		    component.classList.add("hide-nav");
+		    }} 
+	else {
+			    component.classList.remove("hide-nav");
+		    }
+	    
+    }
+    
+    onMount(() => {
+        window.addEventListener('wheel', handleScroll, { passive: true });
+        
+        return () => {
+            window.removeEventListener('wheel', handleScroll);
+        };
+    });
 </script>
 
-<header>
-	<div class="corner">
-		<a href="https://svelte.dev/docs/kit">
-			<img src={logo} alt="SvelteKit" />
-		</a>
-	</div>
-
-	<nav>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
-		</svg>
-		<ul>
-			<li aria-current={page.url.pathname === '/' ? 'page' : undefined}>
-				<a href="/">Home</a>
-			</li>
-			<li aria-current={page.url.pathname === '/about' ? 'page' : undefined}>
-				<a href="/about">About</a>
-			</li>
-			<li aria-current={page.url.pathname.startsWith('/sverdle') ? 'page' : undefined}>
-				<a href="/sverdle">Sverdle</a>
-			</li>
-		</ul>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
-		</svg>
-	</nav>
-
-	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
-			<img src={github} alt="GitHub" />
-		</a>
-	</div>
+<header> 
+    <nav bind:this={component} class="fixed mx-8 flex w-screen justify-between ">
+        <ul>
+            <li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
+                <a href="/">Home</a>
+            </li>
+        </ul>
+        <ul>
+            <li class="text-xl min-w-24">
+                <a href="https://x.com/TheKingOfStank" rel="noopener noreferrer" target="_blank">
+                    <span class="text-2xl">𝕏</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
 </header>
 
 <style>
-	header {
-		display: flex;
-		justify-content: space-between;
-	}
+header {
+    display: flex;
+    justify-content: space-between;
+	transition: all 0.5s ease-in-out;
+}
 
-	.corner {
-		width: 3em;
-		height: 3em;
-	}
+.hide-nav {
+	opacity: 0;
+}
 
-	.corner a {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 100%;
-		height: 100%;
-	}
+.corner {
+    width: 3em;
+    height: 3em;
+}
 
-	.corner img {
-		width: 2em;
-		height: 2em;
-		object-fit: contain;
-	}
+.corner a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
 
-	nav {
-		display: flex;
-		justify-content: center;
-		--background: rgba(255, 255, 255, 0.7);
-	}
+.corner img {
+    width: 2em;
+    height: 2em;
+    object-fit: contain;
+}
 
-	svg {
-		width: 2em;
-		height: 3em;
-		display: block;
-	}
+nav {
+    font-family: var(--font-tech);
+}
 
-	path {
-		fill: var(--background);
-	}
+svg {
+    width: 2em;
+    height: 3em;
+    display: block;
+}
 
-	ul {
-		position: relative;
-		padding: 0;
-		margin: 0;
-		height: 3em;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		list-style: none;
-		background: var(--background);
-		background-size: contain;
-	}
+path {
+    fill: var(--background);
+}
 
-	li {
-		position: relative;
-		height: 100%;
-	}
+ul {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    background: var(--background);
+    background-size: contain;
+}
 
-	li[aria-current='page']::before {
-		--size: 6px;
-		content: '';
-		width: 0;
-		height: 0;
-		position: absolute;
-		top: 0;
-		left: calc(50% - var(--size));
-		border: var(--size) solid transparent;
-		border-top: var(--size) solid var(--color-theme-1);
-	}
+li {
+    position: relative;
+    height: 100%;
+}
 
-	nav a {
-		display: flex;
-		height: 100%;
-		align-items: center;
-		padding: 0 0.5rem;
-		color: var(--color-text);
-		font-weight: 700;
-		font-size: 0.8rem;
-		text-transform: uppercase;
-		letter-spacing: 0.1em;
-		text-decoration: none;
-		transition: color 0.2s linear;
-	}
+nav a {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    padding: 0 0.5rem;
+    color: var(--color-text);
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-decoration: none;
+    transition: color 0.2s linear;
+}
 
-	a:hover {
-		color: var(--color-theme-1);
-	}
+a:hover {
+    color: var(--color-theme-1);
+}
 </style>
