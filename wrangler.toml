@@ -1,3 +1,9 @@
+[
+build
+]
+command = "npm run build"
+pages_build_output_dir = "build"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "valkyrie-x-truck"
