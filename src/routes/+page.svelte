@@ -108,33 +108,40 @@ function inView(node, options = {}) {
 		},
 	};
 }
- async   function handleEmailSubmit(event) {
-        const email = event.detail.email;
-	try {
-            const response = await fetch('/api/subscribe', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({ email })
-            });
 
-            const data = await response.json();
-
-            if (response.ok) {
-                message = data.message;
-                error = '';
-                } else {
-                error = data.error;
-                message = '';
-            }
-        } catch (e) {
-            error = 'Failed to submit. Please try again.';
+ 
+async function handleEmailSubmit(event) {
+    const email = event.detail.email;
+    console.log('Submitting email:', email);
+    
+    try {
+        // Create FormData object
+        const formData = new FormData();
+        formData.append('email', email);
+        
+        const response = await fetch('/api/subscribe', {
+            method: 'POST',
+            // Remove the Content-Type header - it will be automatically set for FormData
+            body: formData  // Send FormData instead of JSON
+        });
+        
+        const data = await response.json();
+        
+        if (response.ok) {
+            message = data.message;
+            error = '';
+        } else {
+            error = data.error || 'An error occurred';
             message = '';
         }
+    } catch (e) {
+        console.error('Submission error:', e);
+        error = 'Failed to submit. Please try again.';
+        message = '';
     }
-function handleRead() {
+}
 
+function handleRead() {
 		const a = document.createElement("a");
 		a.href = `/books/${"ValkyrieXTruck/chapter-1"}`;
 		a.click();
@@ -149,7 +156,11 @@ function handleRead() {
 <section>
 	<div class="w-full h-screen relative ">
 	<h1 class="absolute sm:x-16 sm:yb-0 yb-64 flex  justify-center center-items h-full w-full ">
-		<img class="object-contain" src="/images/books/valkyriextruck/ValkyrieLogo3.webp" />
+		<!-- <img class="object-contain" src="/images/books/valkyriextruck/ValkyrieLogo3.webp" /> -->
+		<video class="mix-blend-normal bg-transparent" autoplay muted >
+			    <source src="/images/books/valkyriextruck/valkyrielogo.webm" type="video/webm">
+				    Your browser does not support the video tag.
+		</video>
 
 	</h1>
 	<div class="bottom-1/4 absolute h-16 items-center  flex justify-center w-full font-tech">
@@ -163,12 +174,12 @@ function handleRead() {
 		<div class="flex  justify-center  align-center w-full h-16" >	
 			<img class="unseen" use:inView src="/images/books/valkyriextruck/tiremark-s.webp" height='16px' width='16px' alt="tire tracks"	/>
 		</div>	
-			<h2 class=" text-center my-8 relative text-4xl poetic">
-			<span class="unseen" use:inView>	Poetic Design	</span>
+			<h2 class=" text-center min-y-16 relative text-4xl poetic">
+			<span class="unseen" use:inView> A Deadly Encounter	</span>
 
 
 			</h2>
-		<div use:inView class=" unseen p-2 mx-12 m-4 text-center bg-gray-800 md:text-lg/8 sm:text-sm/8 text-xs/8 " >
+		<div use:inView class=" unseen p-2  min-w-sm mx-0  text-center bg-gray-800 md:text-lg/8 sm:text-sm/8 text-xs/8 " >
 
 				<p>Wheels burning, ever churning, a maiden of light yet yearning.  </p>
 				<p>Before her, man of sorrow lay, arrived now his numbered day. </p>
@@ -178,7 +189,7 @@ function handleRead() {
 			<p>Thread rimple, answer simple, she lay gun at sorrow’s temple.</p>
 			</div>
 
-		<h2 use:inView class=" lg:text-8xl md:text-8xl sm:text-6xl text-6xl unseen text-center my-8 text-8xl">
+		<h2 use:inView class=" sm:text-8xl text-5xl unseen text-center my-8">
 			Reticulate Fates
 		</h2>
 
@@ -189,9 +200,9 @@ function handleRead() {
 		<CharacterCard data={character} /> 
 		{/each} 
 	 </div> 
-	<div class="h-screen mt-24 mb-16 flex flex-col justify-around center-items ">
+	<div class="h-screen sm:mt-24 mt-0 mb-16 flex flex-col justify-around center-items ">
 	<h2 use:inView class="lg:text-8xl md:text-8xl sm:text-6xl text-6xl unseen text-center my-8 font-tech">
-	Fettered souls	
+			Fettered Souls
 	</h2>
 	<div use:inView class="p-2 unseen min-w-sm text-center font-tech bg-gray-800 md:text-lg/8 sm:text-sm/8 text-xs/8" >
 				<p>Gun's roar crying, acrid scent rising, cabin now capsizing  </p>
@@ -207,6 +218,9 @@ function handleRead() {
 		<div class="flex justify-center align-center w-full">
 	<img use:inView class="unseen" src="/images/books/valkyriextruck/tiremark-s.webp" width="20" style="transform:rotate(180deg);"/>
 			</div>
+		</div>
+	<div class="w-full flex justify-around items-center mb-8">
+		<button on:click={handleRead} class="hover:bg-orange-800 py-4 px-6 bg-orange-600 text-white">Read Chapter 1</button>
 		</div>
 	<ProgressBar labels={progress} currentStep={1}/>
 	{#if showPopup}

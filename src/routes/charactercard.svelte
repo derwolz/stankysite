@@ -130,14 +130,14 @@ function swapText(){
 	activeDesc =( activeDesc !== description) ?  description : altDescription 
 }
 let namePosition;
-$: namePosition = windowWidth >=730 ? `${position}-name` : 'bottom-name';
+$: namePosition = windowWidth >=730 ? `${position}-name` : windowWidth >= 601 ? 'bottom-name' : 'sm-bottom-name';
 </script>
 <div use:inView class="my-8 min-h-16 " />
-<div class="hidden my-0 min-h-screen flex flex-col justify-center items-center" >
-	<div id={`${name}`} class={`relative min-w-full h-screen   ${position}-head `}>
+<div class="hidden my-0    flex flex-col justify-center items-center" >
+	<div id={`${name}`} class={`relative min-w-full h-[80vh]   ${position}-head `}>
 
 		<div class={`absolute t-0   overflow-hidden  h-32 flex justify-content items-center  ${namePosition}`}>
-			<h3 class=" sm:text-6xl  text-3xl  px-2 t-1/2 "> 
+			<h3 class=" text-6xl    px-2 t-1/2 "> 
 				{name}
 			</h3>
 			<Wiper trigger={mountAnimation} zeroed={true} direction={wipeDirection} duration={500}/>
@@ -148,16 +148,16 @@ $: namePosition = windowWidth >=730 ? `${position}-name` : 'bottom-name';
 		
 		
 		{#if !altActive}
-			<div class="xl:top-5 lg:top-5 md:top-5 sm:top-5 -top-10 stack absolute min-w-full   text-center font-tech 96" style="--stacks: 3;">
-				<span class="md:text-6xl sm:text-5xl text-4xl" style="--index: 0;" >{title}</span>
-				<span class="md:text-6xl sm:text-5xl text-4xl" style="--index: 1;" >{title}</span>
-				<span class="md:text-6xl sm:text-5xl text-4xl" style="--index: 2;" >{title}</span>
+			<div class="xl:top-5 lg:top-5 md:top-5 sm:top-5 -top-20 stack absolute min-w-full   text-center font-tech 96" style="--stacks: 3;">
+				<span class="text-7xl" style="--index: 0;" >{title}</span>
+				<span class="text-7xl" style="--index: 1;" >{title}</span>
+				<span class="text-7xl" style="--index: 2;" >{title}</span>
 			</div>
 		{:else}
-			<div class=" xl:top-5 lg:top-5 md:top-5 sm:top-5 -top-10 stack absolute min-w-full   text-center font-tech 96" style="--stacks: 3;">
-				<span class="md:text-6xl sm:text-5xl text-4xl" style="--index: 0">{altTitle}</span>
-				<span class="md:text-6xl sm:text-5xl text-4xl" style="--index: 1;">{altTitle}</span>
-				<span class="md:text-6xl sm:text-5xl text-4xl" style="--index: 2;">{altTitle}</span>
+			<div class=" xl:top-5 lg:top-5 md:top-5 sm:top-5 -top-20 stack absolute min-w-full   text-center font-tech 96" style="--stacks: 3;">
+				<span class="text-7xl" style="--index: 0;">{altTitle}</span>
+				<span class="text-7xl" style="--index: 1;">{altTitle}</span>
+				<span class="text-7xl" style="--index: 2;">{altTitle}</span>
 			</div>
 		{/if}	
 
@@ -185,9 +185,6 @@ $: namePosition = windowWidth >=730 ? `${position}-name` : 'bottom-name';
 
 	</div>
 
-	<div class="relative bg-white w-full h-full z-10" >	
-		<Wiper  />
-	</div>
 
 </div>
 <style>
@@ -209,12 +206,12 @@ opacity: 0;
 
 .left-name  {
 transform:rotate(90deg);
-left: 50%;
+left: 65%;
 top: 25%;
 }
 .right-name  {
 transform:rotate(270deg);
-right:50%;
+right:65%;
 top:25%;
 }
 .left-head h2 {
@@ -229,11 +226,11 @@ right: 00%;
 }
 .left-span {
 right: 45%;
-top: 25%;
+top: 24%;
 }
 .right-span {
 right: 40%;
-top: 25%;
+top: 24%;
 }
 .bg-div2{
 background-image: var(--bg-alt-image);
@@ -319,7 +316,17 @@ text-shadow: none;
 transform: rotate(0deg);
 left:0; 
 right:0;
-bottom:25%;
+top:500px;
+justify-content:center;
+text-align:center;
+width:100%;
+}
+
+.sm-bottom-name {
+transform: rotate(0deg);
+left:0;
+right:0;
+top:370px;
 justify-content:center;
 text-align:center;
 width:100%;
