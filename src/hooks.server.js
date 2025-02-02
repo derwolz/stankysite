@@ -25,11 +25,30 @@ CREATE TABLE IF NOT EXISTS email_subscriptions (
 /** @type {import('@sveltejs/kit').Handle} */
 export async function handle({ event, resolve }) {
   event.locals.db = db;
+
+  // Handle preflight requests
+  if (event.request.method === 'OPTIONS') {
+    return new Response(null, {
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
+        'Access-Control-Allow-Headers': 'DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Authorization',
+        'Access-Control-Max-Age': '86400'
+      }
+    });
+  }
   const response = await resolve(event);
-   response.headers.append('Access-Control-Allow-Origin', '*');
-  response.headers.append('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
-  response.headers.append('Access-Control-Allow-Headers', 'Content-Type, Authorization');
   
-  return response;
+  // Add CORS headers to all responses
+  const headers = new Headers(response.headers);
+  headers.set('Access-Control-Allow-Origin', '*');
+  headers.set('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+  headers.set('Access-Control-Allow-Headers', 'DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Authorization');
+
+  return new Response(response.body, {
+    status: response.status,
+    statusText: response.statusText,
+    headers
+  });
 }
 
