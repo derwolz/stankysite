@@ -72,7 +72,6 @@ function inView(node, options = {}) {
 			entries.forEach((entry) => {
 				if (entry.isIntersecting) {
 						// Add class when element comes into view
-					console.log(entry);
 
 					entry.target.classList.remove('unseen');	
 						requestAnimationFrame(()=>{
@@ -116,13 +115,15 @@ async function handleEmailSubmit(event) {
     
     try {
         // Create FormData object
-        const formData = new FormData();
-        formData.append('email', email);
-        
+       const formData = {email};
         const response = await fetch('/api/subscribe', {
             method: 'POST',
+	    headers: {
+				'Content-Type':'application/json'
+			},
+
             // Remove the Content-Type header - it will be automatically set for FormData
-            body: formData  // Send FormData instead of JSON
+            body: JSON.stringify({email})
         });
         
         const data = await response.json();

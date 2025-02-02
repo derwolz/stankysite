@@ -6,7 +6,9 @@ import { actions } from "$lib/db";
 export async function POST({ request, locals }) {  // Add locals parameter
     try {
         // Pass both request and locals to the subscribe function
+        console.log(request);
         const result = await actions.subscribe({ request, locals });
+        console.log(request)
         
         if (result.error) {
             // Handle any error states from the action

@@ -6,8 +6,8 @@ import { fail } from '@sveltejs/kit';
 /** @type {import('./$types').Actions} */
 export const actions = {
   subscribe: async ({ request, locals }) =>{
-    const data = await request.formData();
-    const email = data.get('email');
+    const data = await request.json();
+    const email = data.email;
     const ip = request.headers.get('x-forwarded-for') || 'unknown';
 
     if (!email) {

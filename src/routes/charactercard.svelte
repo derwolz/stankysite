@@ -1,7 +1,6 @@
 <script>
 export let data;
 import {onMount} from 'svelte'
-console.log("received character: ", data);
 const { name, title, glow, altTitle, altBg, altDescription ,img, description, position} = data;
 import Wiper from "./wiper.svelte"
 let altActive = false;
@@ -27,7 +26,6 @@ function calculateSize() {
     // Maintain 3:4 aspect ratio
     const height = (width * 4) / 3;
     
-	console.log(dimensions);
     dimensions = { width , height };
 }
 
@@ -54,7 +52,6 @@ function inView(node, options = {}) {
 						setTimeout(()=>{
 							mountAnimation = true;
 						},300);
-						console.log("nowInView", mountAnimation)
 						setTimeout(()=>{mountAnimation=false;},900);
 					}
 					onIntersect(entry);
@@ -105,8 +102,6 @@ onMount(() => {
         window.removeEventListener('resize', handleResize);
     };
 });
-$: console.log('position',position);
-console.log(wipeDirection, position, { "left":"down", "right":"up"},  {"left":"down", "right":"up"}[position])
 $: endAnimation = false;
 function activateAlt(b){
 	altActive = b;
@@ -126,7 +121,6 @@ function activateAlt(b){
 	}
 }
 function swapText(){
-	console.log('swapping text', activeDesc, description, altDescription, activeDesc=== description);
 	activeDesc =( activeDesc !== description) ?  description : altDescription 
 }
 let namePosition;

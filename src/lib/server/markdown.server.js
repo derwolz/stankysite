@@ -16,7 +16,6 @@ const bookPath = join(process.cwd(), "src/lib/books");
 }
 
 async function getContent(book, chapter) {
-    console.log("Getting content:", book, chapter);
     try {
         // Read the raw markdown file instead of importing it
         const rawContent = readFileSync(`${bookPath}/${book}/${chapter}.svx`, 'utf-8');
@@ -47,10 +46,8 @@ export async function getAbout() {
 
 export async function getChapter(book, chapter) {
     try {
-        console.log(`fetching ${book} and ${chapter} from ${bookPath}`);
         const metadata = getMetadataJSON(book);
         const content = await getContent(book, chapter);
-        console.log("META DATA: ",metadata);
         return {
             metadata: {
                 title: metadata.chapters[chapter].title,

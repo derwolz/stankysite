@@ -2,7 +2,6 @@
 import { onMount } from 'svelte';
 export let data;
 const{content, metadata, navigation} = data; 
-console.log('nav', navigation);
 // Extract the actual content from the SSR payload
 
 
@@ -46,7 +45,6 @@ function getIndexFromPercentage(percentage, arrayLength) {
 
 function updateImage(scrollPerc) {
     const newIndex = getIndexFromPercentage(scrollPerc, metadata.images.length);
-    console.log("newIndex: ", newIndex); 
     if (newIndex !== imageIndex && !isTransitioning) {
         isTransitioning = true;
         previousImageIndex = imageIndex;
@@ -65,7 +63,6 @@ function updateImage(scrollPerc) {
     }
 }
 let chapterMax = 5;
-console.log("metadata",metadata);
 </script>
 <svelte:window
     on:scroll={() => {
