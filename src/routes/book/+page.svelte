@@ -157,7 +157,7 @@ let popup
         {#each Array(metadata.planned).fill() as _, i}
             <button class={
                     `min-w-17  my-12 p-4 text-white font-tech 
-                    ${current == i+1 ? 'bg-orange-600 hover:bg-orange-800' :
+                    ${current == i ? 'bg-orange-600 hover:bg-orange-800' :
 
                     i < metadata.released ? 'bg-gray-600 hover:bg-gray-900' :
                     'text-gray-800 bg-gray-900' }
