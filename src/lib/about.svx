@@ -17,7 +17,7 @@ To you it is given to act. There is no cavalry coming to save you, because you a
 
 
 ## Questions from X:
-<div class="flex flex-row justify-around w-screen flex-wrap" >
+<div class="flex flex-row justify-around my-16 max-w-[768px] wrap" >
 
 - ### Yoko @YokoLittie:
 - *What's your body count?*  
@@ -66,6 +66,7 @@ To you it is given to act. There is no cavalry coming to save you, because you a
 .content p {
 text-indent: 2em;
 margin: 8px 0px;
+@apply py-2;
 }
 .content h2 {
 	font-size: 16pt;
