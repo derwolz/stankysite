@@ -1,6 +1,6 @@
 <script>
 import { fade, fly } from 'svelte/transition';
-import { createEventDispatcher } from 'svelte';
+import { createEventDispatcher, onMount } from 'svelte';
 
 // Set up our event dispatcher for communicating with parent components
 const dispatch = createEventDispatcher();
@@ -48,6 +48,10 @@ function handleKeydown(event) {
         closePopup();
     }
 }
+let inputElement;
+onMount(()=>{
+inputElement.focus();
+})
 </script>
 
 <svelte:window on:keydown={handleKeydown}/>
@@ -92,8 +96,9 @@ function handleKeydown(event) {
                             type="email"
                             id="email"
                             bind:value={email}
+                            bind:this={inputElement}
                             on:input={handleInput}
-                            class="w-full px-3 py-2 border border-gray-300  focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                            class="w-full px-3 py-2 text-gray-800 border border-gray-300  focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
                             placeholder="your@email.com"
                             required
                         />

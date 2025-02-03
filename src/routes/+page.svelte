@@ -46,14 +46,6 @@ const characters = [{
 		description:"Survival requires the sacrifice of everything."
 	}
 ]
-const progress = [
-	"Writing",
-	"Story Editing",
-	"Copy Editing",
-	"Production",
-	"Published"
-]
-
 
 
 function inView(node, options = {}) {
@@ -170,7 +162,7 @@ function handleRead() {
 		</div>
 
 	</div>
-	<div class="w-3/4 mb-0 flex flex-col h-screen  justify-around font-tech">
+	<div class="w-3/4 mb-32 flex flex-col h-screen  justify-around font-tech">
 		
 		<div class="flex  justify-center  align-center w-full h-16" >	
 			<img class="unseen" use:inView src="/images/books/valkyriextruck/tiremark-s.webp" height='16px' width='16px' alt="tire tracks"	/>
@@ -201,7 +193,7 @@ function handleRead() {
 		<CharacterCard data={character} /> 
 		{/each} 
 	 </div> 
-	<div class="h-screen sm:mt-24 mt-0 mb-16 flex flex-col justify-around center-items ">
+	<div class="h-[90vh] sm:mt-24 mt-0 mb-16 flex flex-col justify-around center-items ">
 	<h2 use:inView class="lg:text-8xl md:text-8xl sm:text-6xl text-6xl unseen text-center my-8 font-tech">
 			Fettered Souls
 	</h2>
@@ -223,7 +215,6 @@ function handleRead() {
 	<div class="w-full flex justify-around items-center mb-8">
 		<button on:click={handleRead} class="hover:bg-orange-800 py-4 px-6 bg-orange-600 text-white">Read Chapter 1</button>
 		</div>
-	<ProgressBar labels={progress} currentStep={1}/>
 	{#if showPopup}
 		<Popup
 			on:submit={handleEmailSubmit}

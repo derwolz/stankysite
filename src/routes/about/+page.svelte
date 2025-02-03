@@ -4,9 +4,7 @@
 </svelte:head>
 <script>
 export let data;
-console.log(data);
 let {content} =  data;
-console.log(content);
 
 </script>
 {@html content}

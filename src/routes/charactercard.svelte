@@ -45,6 +45,7 @@ function inView(node, options = {}) {
 			entries.forEach((entry) => {
 				if (entry.isIntersecting) {
 					const hiddenDiv = node.nextElementSibling;
+					node.classList.add('hidden');
 					if (hiddenDiv) {
 						// Add class when element comes into view
 						hiddenDiv.classList.remove('hidden');
@@ -126,7 +127,7 @@ function swapText(){
 let namePosition;
 $: namePosition = windowWidth >=730 ? `${position}-name` : windowWidth >= 601 ? 'bottom-name' : 'sm-bottom-name';
 </script>
-<div use:inView class="my-8 min-h-16 " />
+<div use:inView class="my-8 min-h-[80vh] " />
 <div class="hidden my-0    flex flex-col justify-center items-center" >
 	<div id={`${name}`} class={`relative min-w-full h-[80vh]   ${position}-head `}>
 

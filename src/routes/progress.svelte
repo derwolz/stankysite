@@ -26,9 +26,24 @@
 					class="text-center transition-colors duration-500"
 					style="width: {sectionWidth}"
 				>
-					<span class="font-bold {getGlow(index)}">
+					{#if index === 0 }
+					<a href="/sverdle">
+					<span class="font-bold {getGlow(index)} md:text-lg text-sm">
 						{label}
 					</span>
+					</a>
+
+					{:else if index !== currentStep}
+					<span class="font-bold {getGlow(index)} md:text-lg text-xs">
+						{label}
+					</span>
+										{:else}
+					<a href="/about">
+					<span class="font-bold {getGlow(index)} md:text-lg text-sm">
+						{label}
+					</span>
+					</a>
+					{/if}
 				</div>
 			{/each}
 		</div>

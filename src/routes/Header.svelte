@@ -11,12 +11,13 @@
         console.log("currentDelta: ", currentDelta);
         // Calculate new translate value
        if (currentDelta >=0 ) {
-		    if (!component.classList.contains("hide-nav")){
+		    if (!component.classList.contains("hide")){
 			    console.log('adding hide-nav', component.classList);
-		    component.classList.add("hide-nav");
+		    component.classList.add("hide");
+                    
 		    }} 
 	else {
-			    component.classList.remove("hide-nav");
+			    component.classList.remove("hide");
 		    }
 	    
     }
@@ -31,7 +32,7 @@
 </script>
 
 <header> 
-    <nav bind:this={component} class="fixed mx-8 flex w-screen justify-between ">
+    <nav bind:this={component} class="fixed z-[999] mx-8 flex w-screen justify-between ">
         <ul>
             <li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
                 <a href="/">Home</a>
@@ -56,6 +57,7 @@ header {
 
 .hide-nav {
 	opacity: 0;
+    display: none;
 }
 
 .corner {

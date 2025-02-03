@@ -1,11 +1,16 @@
-<ul class="flex w-full justify-around pt-3 pb-8 bg-gray-800">
-	<li>
-		<a> About the author </a>
-	</li>
-	<li>
-		<a> 
-			
-		</a>
-	</li>
-</ul>
+<script>
+const currentStep = 1;
+const labels = [
+	"Writing",
+	"Story Editing",
+	"Copy Editing",
+	"Production",
+	"Published"
+]
+import ProgressBar from "./progress.svelte";
+
+</script>
+
+<ProgressBar labels={labels} currentStep={currentStep} />
+
 
