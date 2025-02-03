@@ -104,7 +104,7 @@ function inView(node, options = {}) {
 async function handleEmailSubmit(event) {
     const email = event.detail.email;
     console.log('Submitting email:', email);
-    
+   let message; 
     try {
         // Create FormData object
        const formData = {email};

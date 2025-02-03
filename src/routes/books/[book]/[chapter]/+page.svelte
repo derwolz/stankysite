@@ -1,9 +1,12 @@
 <script>
 import { onMount } from 'svelte';
+import Popup from "../../../popup.svelte";
+
 export let data;
 const{content, metadata, navigation} = data; 
 // Extract the actual content from the SSR payload
 
+let showPopup = false;
 
 
 $: processedContent = data.content;
@@ -42,6 +45,40 @@ function getIndexFromPercentage(percentage, arrayLength) {
     // Clamp index between 0 and arrayLength - 1
     return Math.min(arrayLength - 1, Math.max(0, index));
 }
+ 
+async function handleEmailSubmit(event) {
+    const email = event.detail.email;
+    console.log('Submitting email:', email);
+   let message; 
+    try {
+        // Create FormData object
+       const formData = {email};
+        const response = await fetch('/api/subscribe', {
+            method: 'POST',
+	    headers: {
+				'Content-Type':'application/json'
+			},
+
+            // Remove the Content-Type header - it will be automatically set for FormData
+            body: JSON.stringify({email})
+        });
+        
+        const data = await response.json();
+        
+        if (response.ok) {
+            message = data.message;
+            error = '';
+        } else {
+            error = data.error || 'An error occurred';
+            message = '';
+        }
+    } catch (e) {
+        console.error('Submission error:', e);
+        error = 'Failed to submit. Please try again.';
+        message = '';
+    }
+}
+
 
 function updateImage(scrollPerc) {
     const newIndex = getIndexFromPercentage(scrollPerc, metadata.images.length);
@@ -63,6 +100,11 @@ function updateImage(scrollPerc) {
     }
 }
 let chapterMax = 5;
+function handleSignUp(){
+
+}
+let popup
+
 </script>
 <svelte:window
     on:scroll={() => {
@@ -131,9 +173,53 @@ let chapterMax = 5;
             </a>
         {/if}
     </nav>
-</article>
 
+
+<div class="button-container">
+<button on:click={()=>showPopup=true}>
+Stay up to date
+</button>
+</article>
+{#if showPopup}
+		<Popup
+			on:submit={handleEmailSubmit}
+			on:close={() => showPopup = false}
+		/>
+{/if}
 <style>
+
+
+.button-container{
+    position: relative;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.button-container button {
+    position: absolute;
+    top: -16rem;
+    margin: 3rem;
+    padding: 1rem;
+    width: 12rem;
+    font: var(--font-tech);
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #fff;
+    transition: background-color 1.4s ease-in-out, 
+                color 1.4s ease-in-out,
+                border-color 1.4s ease-in-out;
+}
+.button-container button:hover {
+background-color: #fff;
+color: #000;
+border: 1px solid black;
+}
+.button-container button:active {
+background: #990000;
+color: #fff;
+border: 1px solid #fff;
+}
 .image {
     transition: opacity 0.5s ease-in-out;
 }
