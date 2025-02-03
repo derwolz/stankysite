@@ -2,10 +2,13 @@
 import { error } from '@sveltejs/kit';
 import { compile } from 'mdsvex';
 import { readFileSync } from 'node:fs';
-import { join } from 'path';
-
+import { join, dirname } from 'node:path';
+import {fileURLToPath } from 'node:url';
+// Get the directory name of the current module
+const __dirname = dirname(fileURLToPath(import.meta.url));
  function getMetadataJSON(book) {
     try{
+        const path = join(__dirname, '..', '..', 'lib', 'books', book, 'metadata.json')
         const data = JSON.parse(readFileSync(`src/lib/books/${book}/metadata.json`, 'utf-8'));
         return data;
     } catch (loadingError) {
@@ -32,7 +35,8 @@ async function getContent(book, chapter) {
 
 export async function getAbout() {
     try {
-        const rawContent = readFileSync(`${"src/lib/about.svx"}`, 'utf-8');
+        const path = "src/lib/about.svx"
+        const rawContent = readFileSync(path, 'utf-8');
         const compiled = await compile(rawContent, {
             extensions: ['.svx', '.md']
             });
@@ -45,6 +49,7 @@ export async function getAbout() {
 
 export async function getChapter(book, chapter) {
     try {
+        const path = join(__dirname, '..', '..', 'lib', 'about.svx');
         const metadata = getMetadataJSON(book);
         const content = await getContent(book, chapter);
         return {
