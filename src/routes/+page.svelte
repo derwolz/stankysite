@@ -136,7 +136,7 @@ async function handleEmailSubmit(event) {
 
 function handleRead() {
 		const a = document.createElement("a");
-		a.href = `/books/${"ValkyrieXTruck/chapter-1"}`;
+		a.href = `/book/`;
 		a.click();
 }
 </script>

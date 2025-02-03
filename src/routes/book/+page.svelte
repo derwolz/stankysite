@@ -1,15 +1,20 @@
 <script>
 import { onMount } from 'svelte';
-import Popup from "../../../popup.svelte";
+import Popup from "/src/routes/popup.svelte";
 
-export let data;
-const{content, metadata, navigation} = data; 
-// Extract the actual content from the SSR payload
+// Book Metadata
+const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":1}
 
+import Chapter1 from "./chapter/chapter1.svelte";
+import Chapter2 from "./chapter/chapter2.svelte";
+import Chapter3 from "./chapter/chapter3.svelte";
+import Chapter4 from "./chapter/chapter4.svelte";
+import Chapter5 from "./chapter/chapter5.svelte";
+
+const Chapters = [Chapter1, Chapter2, Chapter3, Chapter4, Chapter5]
+
+let current = 0;
 let showPopup = false;
-
-
-$: processedContent = data.content;
 let scrollPercentage = 0;
 let imageIndex = 0;
 let previousImageIndex = 0;
@@ -18,6 +23,8 @@ let isTransitioning = false;
 let currentImageClass = 'current';
 let previousImageClass = 'previous';
 let nextImageClass = 'next';
+let images = [];
+let data;
 function getScrollPercentage() {
     const doc = document.documentElement;
     const windowHeight = window.innerHeight;
@@ -29,6 +36,12 @@ function getScrollPercentage() {
 
     // Clamp between 0 and 100
     return Math.min(100, Math.max(0, scrolled));
+}
+
+function handleDataUpdate(event) {
+    console.log("mounted", event.detail);
+    data = event.detail;
+    images = data.images;
 }
 
 function getIndexFromPercentage(percentage, arrayLength) {
@@ -81,7 +94,7 @@ async function handleEmailSubmit(event) {
 
 
 function updateImage(scrollPerc) {
-    const newIndex = getIndexFromPercentage(scrollPerc, metadata.images.length);
+    const newIndex = getIndexFromPercentage(scrollPerc, data.images.length);
     if (newIndex !== imageIndex && !isTransitioning) {
         isTransitioning = true;
         previousImageIndex = imageIndex;
@@ -113,18 +126,20 @@ let popup
     }}
 />
 <svelte:head>
-    <title>{data.metadata?.title || 'Chapter'}</title>
+
+    <title>{metadata.title || 'Chapter'}</title>
 </svelte:head>
+
 <div class="fixed top-20 -translate-x-1/4 left-[15%] w-screen -z-50 ">
     {#if previousImageIndex !== imageIndex}
         <img 
-            src={metadata.images[previousImageIndex]} 
+            src={images[previousImageIndex]}
             class="image h-screen absolute top-0 left-0  {previousImageClass}" 
             alt="Previous background"
         />
     {/if}
     <img 
-        src={metadata.images[imageIndex]} 
+        src={images[imageIndex]}
         class="image  h-screen absolute top-0 left-0 {nextImageClass}" 
         alt="Current background"
     />
@@ -132,19 +147,19 @@ let popup
 </div>
 <!-- Wrap the content in a container with proper styling -->
 <article class="relative prose prose-lg max-w-3xl mx-auto px-4 py-8">
-    <div class="markdown-content">
-        {@html content}    
-
+    <div class="markdown-content">  
+        <svelte:component this={Chapters[current]} on:bindData={handleDataUpdate} />
 
     </div>
 
     <div class="absolute flex flex-col translate-x-3/4 right-0 top-0" >
 
-        {#each Array(navigation.planned).fill() as _, i}
+        {#each Array(metadata.planned).fill() as _, i}
             <button class={
                     `min-w-17  my-12 p-4 text-white font-tech 
-                    ${navigation.index == i+1 ? 'bg-orange-600 hover:bg-orange-800' :
-                    i < navigation.released ? 'bg-gray-600 hover:bg-gray-900' :
+                    ${current == i+1 ? 'bg-orange-600 hover:bg-orange-800' :
+
+                    i < metadata.released ? 'bg-gray-600 hover:bg-gray-900' :
                     'text-gray-800 bg-gray-900' }
                 `}>
                 {i+1}
@@ -153,9 +168,9 @@ let popup
     </div>
 
     <nav class="flex justify-between mt-8 border-t pt-4">
-        {#if navigation.previous}
+        {#if metadata.previous}
             <a 
-                href={`/books/${data.metadata.bookSlug}/${navigation.previous}`}
+                href={`/books/${data.metadata.bookSlug}/${metadata.previous}`}
                 class="text-blue-600 hover:text-blue-800"
             >
                 ← Previous Chapter
@@ -164,9 +179,9 @@ let popup
             <span></span>
         {/if}
 
-        {#if navigation.next}
+        {#if metadata.next}
             <a 
-                href={`/books/${navigation.bookSlug}/${navigation.next}`}
+                href={`/books/${metadata.bookSlug}/${metadata.next}`}
                 class="text-blue-600 hover:text-blue-800"
             >
                 Next Chapter →

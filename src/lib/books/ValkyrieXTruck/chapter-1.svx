@@ -140,15 +140,15 @@ The jagged-edged flesh of its curling face bit into her leg. Runa screamed as th
 Blindly, she grasped the handle as her gaze scanned the now-still yard. Her hand brushed an errant hair behind her ear, clearing her view. With a yank, the door popped open, and she slid inside.
 
 <div class="button-spacing"></div>
-</div>
+
 
 <script>
     export let bgImages;
-    import onMount;
 
-    onMount(() =>{
-   	
-    })
+
+
+  	
+
 </script>
 
 <style>

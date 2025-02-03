@@ -3,8 +3,7 @@
 	<meta name="description" content="About this app" />
 </svelte:head>
 <script>
-export let data;
-let {content} =  data;
+import About from "$lib/about.svx";
 
 </script>
-{@html content}
+<About/>

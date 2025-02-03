@@ -16,7 +16,7 @@ const config = {
     preprocess: [
         vitePreprocess(), // Added vitePreprocess
         mdsvex({
-            extensions: ['.md']
+            extensions: ['.md', '.svx']
         })
     ],
     extensions: [".svelte", ".svx", ".md", ".json"]
