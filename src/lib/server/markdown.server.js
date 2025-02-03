@@ -9,7 +9,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
  function getMetadataJSON(book) {
     try{
         const path = join(__dirname, '..', '..', 'lib', 'books', book, 'metadata.json')
-        const data = JSON.parse(readFileSync(`src/lib/books/${book}/metadata.json`, 'utf-8'));
+        const data = JSON.parse(readFileSync(path, 'utf-8'));
         return data;
     } catch (loadingError) {
         console.error("failed to load metadata", loadingError);
@@ -20,7 +20,9 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 async function getContent(book, chapter) {
     try {
         // Read the raw markdown file instead of importing it
-        const rawContent = readFileSync(`src/lib/books/${book}/${chapter}.svx`, 'utf-8');
+
+        const path = join(__dirname, '..', '..', 'lib', 'books', book,chapter, 'metadata.json')
+        const rawContent = readFileSync(path, 'utf-8');
         // Compile the markdown to HTML
         const compiled = await compile(rawContent, {
             extensions: ['.svx', '.md']
