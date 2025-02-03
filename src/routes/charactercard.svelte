@@ -128,7 +128,7 @@ let namePosition;
 $: namePosition = windowWidth >=730 ? `${position}-name` : windowWidth >= 601 ? 'bottom-name' : 'sm-bottom-name';
 </script>
 <div use:inView class="my-8 min-h-[80vh] " />
-<div class="hidden my-0    flex flex-col justify-center items-center" >
+<div class="hidden my-32 h-[80vh] min-h-[700px]   flex flex-col justify-center items-center" >
 	<div id={`${name}`} class={`relative min-w-full h-[80vh]   ${position}-head `}>
 
 		<div class={`absolute t-0   overflow-hidden  h-32 flex justify-content items-center  ${namePosition}`}>

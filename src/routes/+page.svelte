@@ -162,9 +162,9 @@ function handleRead() {
 		</div>
 
 	</div>
-	<div class="w-3/4 mb-32 flex flex-col h-screen  justify-around font-tech">
+	<div class="w-3/4 sm:mb-0  flex flex-col h-screen  justify-around font-tech">
 		
-		<div class="flex  justify-center  align-center w-full h-16" >	
+		<div class="flex justify-center  align-center w-full h-16" >	
 			<img class="unseen" use:inView src="/images/books/valkyriextruck/tiremark-s.webp" height='16px' width='16px' alt="tire tracks"	/>
 		</div>	
 			<h2 class=" text-center min-y-16 relative text-4xl poetic">
@@ -182,7 +182,7 @@ function handleRead() {
 			<p>Thread rimple, answer simple, she lay gun at sorrow’s temple.</p>
 			</div>
 
-		<h2 use:inView class=" sm:text-8xl text-5xl unseen text-center my-8">
+		<h2 use:inView class=" sm:text-8xl text-5xl unseen text-center my-0">
 			Reticulate Fates
 		</h2>
 
