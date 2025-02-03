@@ -4,10 +4,9 @@ import { compile } from 'mdsvex';
 import { readFileSync } from 'node:fs';
 import { join } from 'path';
 
-const bookPath = join(process.cwd(), "src/lib/books");
  function getMetadataJSON(book) {
     try{
-        const data = JSON.parse(readFileSync(`${bookPath}/${book}/metadata.json`, 'utf-8'));
+        const data = JSON.parse(readFileSync(`src/lib/books/${book}/metadata.json`, 'utf-8'));
         return data;
     } catch (loadingError) {
         console.error("failed to load metadata", loadingError);
@@ -18,7 +17,7 @@ const bookPath = join(process.cwd(), "src/lib/books");
 async function getContent(book, chapter) {
     try {
         // Read the raw markdown file instead of importing it
-        const rawContent = readFileSync(`${bookPath}/${book}/${chapter}.svx`, 'utf-8');
+        const rawContent = readFileSync(`src/lib/books/${book}/${chapter}.svx`, 'utf-8');
         // Compile the markdown to HTML
         const compiled = await compile(rawContent, {
             extensions: ['.svx', '.md']
