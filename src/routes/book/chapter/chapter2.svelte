@@ -1,20 +1,26 @@
 <script>
 import {onMount, createEventDispatcher} from 'svelte';
-import Chapter1 from "$lib/books/ValkyrieXTruck/chapter-1.svx";
+import Chapter1 from "$lib/books/ValkyrieXTruck/chapter-2.svx";
+export let parentData;
+const dispatch = createEventDispatcher();
 const data = {
     "title": "Escape",
     "slug": "chapter-2",
     "images": [
-                "/images/books/valkyriextruck/chapters/chapter1/runacar.webp",
-                "/images/books/valkyriextruck/chapters/chapter1/voidanima.webp"
+                "/images/books/valkyriextruck/chapters/chapter2/Max1.webp",
+                "/images/books/valkyriextruck/chapters/chapter2/doctor.webp",
+                "/images/books/valkyriextruck/chapters/chapter2/hallway.webp",
+                "/images/books/valkyriextruck/chapters/chapter2/officer.webp"
            ],
     "next": null,
     "previous": "chapter-1"
 }
 export function bindData() {
-dispatch('dataUpdate', data);
+dispatch('bindData', data);
 }
+
 onMount(()=>{
+
 bindData();
 })
 </script>

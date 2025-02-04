@@ -9,14 +9,13 @@ let data = {
                 "/images/books/valkyriextruck/chapters/chapter1/runacar.webp",
                 "/images/books/valkyriextruck/chapters/chapter1/voidanima.webp"
             ],
-    "next" : null,
+    "next" : "chapter-2",
     "previous": null
 }
 export function bindData(d) {
 dispatch('bindData', d);
 }
 onMount(()=>{
-    console.log("mounting", data);
     bindData(data)
 
 })

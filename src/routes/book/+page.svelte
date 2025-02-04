@@ -3,7 +3,7 @@ import { onMount } from 'svelte';
 import Popup from "/src/routes/popup.svelte";
 
 // Book Metadata
-const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":1}
+const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":2}
 
 import Chapter1 from "./chapter/chapter1.svelte";
 import Chapter2 from "./chapter/chapter2.svelte";
@@ -24,7 +24,8 @@ let currentImageClass = 'current';
 let previousImageClass = 'previous';
 let nextImageClass = 'next';
 let images = [];
-let data;
+let data = {previous:false, next:false};
+
 function getScrollPercentage() {
     const doc = document.documentElement;
     const windowHeight = window.innerHeight;
@@ -39,7 +40,6 @@ function getScrollPercentage() {
 }
 
 function handleDataUpdate(event) {
-    console.log("mounted", event.detail);
     data = event.detail;
     images = data.images;
 }
@@ -61,7 +61,6 @@ function getIndexFromPercentage(percentage, arrayLength) {
  
 async function handleEmailSubmit(event) {
     const email = event.detail.email;
-    console.log('Submitting email:', email);
    let message; 
     try {
         // Create FormData object
@@ -92,7 +91,6 @@ async function handleEmailSubmit(event) {
     }
 }
 
-
 function updateImage(scrollPerc) {
     const newIndex = getIndexFromPercentage(scrollPerc, data.images.length);
     if (newIndex !== imageIndex && !isTransitioning) {
@@ -116,8 +114,19 @@ let chapterMax = 5;
 function handleSignUp(){
 
 }
+$: data
 let popup
 
+function handleNavigate(page){
+    let p = page; 
+    p = p >= metadata.released ? 4 : p;
+    current = p;
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+    
+}
 </script>
 <svelte:window
     on:scroll={() => {
@@ -148,7 +157,7 @@ let popup
 <!-- Wrap the content in a container with proper styling -->
 <article class="relative prose prose-lg max-w-3xl mx-auto px-4 py-8">
     <div class="markdown-content">  
-        <svelte:component this={Chapters[current]} on:bindData={handleDataUpdate} />
+        <svelte:component this={Chapters[current]} on:bindData={handleDataUpdate} parentData={data}/>
 
     </div>
 
@@ -161,31 +170,33 @@ let popup
 
                     i < metadata.released ? 'bg-gray-600 hover:bg-gray-900' :
                     'text-gray-800 bg-gray-900' }
-                `}>
+                `}
+                    on:click={()=>handleNavigate(i)}
+            >
                 {i+1}
             </button>
         {/each}
     </div>
 
     <nav class="flex justify-between mt-8 border-t pt-4">
-        {#if metadata.previous}
-            <a 
-                href={`/books/${data.metadata.bookSlug}/${metadata.previous}`}
+        {#if data.previous}
+            <button 
+                on:click={()=>{handleNavigate(current-1)}}
                 class="text-blue-600 hover:text-blue-800"
             >
                 ← Previous Chapter
-            </a>
+            </button>
         {:else}
             <span></span>
         {/if}
 
-        {#if metadata.next}
-            <a 
-                href={`/books/${metadata.bookSlug}/${metadata.next}`}
+        {#if data.next}
+            <button 
+                on:click={()=>{handleNavigate(current+1)}}
                 class="text-blue-600 hover:text-blue-800"
             >
                 Next Chapter →
-            </a>
+            </button>
         {/if}
     </nav>
 

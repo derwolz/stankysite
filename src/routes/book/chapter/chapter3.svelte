@@ -1,7 +1,7 @@
 <script>
-export let bindData;
 import {onMount} from 'svelte';
 import Chapter1 from "$lib/books/ValkyrieXTruck/chapter-1.svx";
+
 const data = {
     "title": "Girl hits boy",
     "slug": "chapter-1",
@@ -10,8 +10,11 @@ const data = {
                 "/images/books/valkyriextruck/chapters/chapter1/voidanima.webp"
             ]
 }
+function bindData(){
+dispatch('bindData', data);
+}
 onMount(()=>{
-bindData(data)
+bindData();
 })
 </script>
 <Chapter1/>
