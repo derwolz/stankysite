@@ -3,7 +3,7 @@ import { setupDatabase } from '$lib/server/db';
 import { building } from '$app/environment';
 import sqlite3 from 'better-sqlite3';
 
-const db = building ? null : new sqlite3('valkyriextruck.db', {verbose: console.log } );
+const db = building ? null : new sqlite3('valkyriextruck.db', {verbose: console.log, readonly: false } );
 
 if (db) {
   // Create tables
