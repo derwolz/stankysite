@@ -12,7 +12,7 @@ const data = {
                 "/images/books/valkyriextruck/chapters/chapter2/hallway.webp",
                 "/images/books/valkyriextruck/chapters/chapter2/officer.webp"
            ],
-    "next": null,
+    "next": "chapter-3",
     "previous": "chapter-1"
 }
 export function bindData() {

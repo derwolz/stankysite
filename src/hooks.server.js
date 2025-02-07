@@ -20,6 +20,20 @@ CREATE TABLE IF NOT EXISTS email_subscriptions (
 
 
 `);
+// Initialize the database
+db.exec(`
+    CREATE TABLE IF NOT EXISTS comments (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        chapter TEXT NOT NULL,
+        paragraph_index INTEGER NOT NULL,
+        name TEXT NOT NULL,
+        comment TEXT NOT NULL,
+        timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+        UNIQUE(id)
+    );
+    CREATE INDEX IF NOT EXISTS idx_chapter_paragraph 
+    ON comments(chapter, paragraph_index);
+`);
 }
 
 /** @type {import('@sveltejs/kit').Handle} */

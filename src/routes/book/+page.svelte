@@ -3,13 +3,14 @@ import { onMount } from 'svelte';
 import Popup from "/src/routes/popup.svelte";
 
 // Book Metadata
-const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":2}
+const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":3}
 
 import Chapter1 from "./chapter/chapter1.svelte";
 import Chapter2 from "./chapter/chapter2.svelte";
 import Chapter3 from "./chapter/chapter3.svelte";
 import Chapter4 from "./chapter/chapter4.svelte";
 import Chapter5 from "./chapter/chapter5.svelte";
+import CommentWrapper from "./components/commentwrapper.svelte";
 
 const Chapters = [Chapter1, Chapter2, Chapter3, Chapter4, Chapter5]
 
@@ -156,6 +157,7 @@ function handleNavigate(page){
 </div>
 <!-- Wrap the content in a container with proper styling -->
 <article class="relative prose prose-lg max-w-3xl mx-auto px-4 py-8">
+<CommentWrapper chapterSlug={data.slug}/>
     <div class="markdown-content">  
         <svelte:component this={Chapters[current]} on:bindData={handleDataUpdate} parentData={data}/>
 
