@@ -1,6 +1,6 @@
 <script>
 import {onMount, createEventDispatcher} from 'svelte';
-import Chapter1 from "$lib/books/ValkyrieXTruck/chapter-2.svx";
+import Chapter2 from "$lib/books/ValkyrieXTruck/chapter-2.svx";
 export let parentData;
 const dispatch = createEventDispatcher();
 const data = {
@@ -12,7 +12,7 @@ const data = {
                 "/images/books/valkyriextruck/chapters/chapter2/hallway.webp",
                 "/images/books/valkyriextruck/chapters/chapter2/officer.webp"
            ],
-    "next": null,
+    "next": "chapter-3",
     "previous": "chapter-1"
 }
 export function bindData() {
@@ -24,4 +24,4 @@ onMount(()=>{
 bindData();
 })
 </script>
-<Chapter1/>
+<Chapter2/>

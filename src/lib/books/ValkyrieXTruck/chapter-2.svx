@@ -13,7 +13,7 @@ title: "Girl hits boy"
         />
     <source
         media="(max-width:799px)"
-        srcset="/images/books/valkyriextruck/blackwhitetruck-s.webp"
+        srcset="/images/books/valkyriextruck/chapters/chapter2/heading-s.webp"
         />
         <img
         src= "/images/books/valkyriextruck/chapters/chapter2/heading.webp"

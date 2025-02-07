@@ -3,7 +3,7 @@ import { onMount } from 'svelte';
 import Popup from "/src/routes/popup.svelte";
 
 // Book Metadata
-const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":2}
+const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":3}
 
 import Chapter1 from "./chapter/chapter1.svelte";
 import Chapter2 from "./chapter/chapter2.svelte";
@@ -116,10 +116,12 @@ function handleSignUp(){
 }
 $: data
 let popup
+const clamp = (value, min, max) => Math.min(Math.max(value, min), max);
 
 function handleNavigate(page){
-    let p = page; 
-    p = p >= metadata.released ? 4 : p;
+    let p = page;
+    p = p 
+    p = p >= metadata.released ? metadata.released -1  : p;
     current = p;
   window.scrollTo({
     top: 0,
