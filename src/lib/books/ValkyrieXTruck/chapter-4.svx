@@ -6,8 +6,6 @@ title: "Departure"
 ---
 
 
-
-
 <div class="image-container">
 <picture class="chapter-head">
     <source
