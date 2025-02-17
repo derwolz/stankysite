@@ -12,7 +12,8 @@ const data = {
                 "/images/books/valkyriextruck/chapters/chapter3/voidanima.webp",
                 "/images/books/valkyriextruck/chapters/chapter3/church.webp"
             ],
-   "next": null,
+    "imagePercs": [0,.28,.52, .60 ],
+   "next": "chapter-4",
     "previous": "chapter-2"
 }
 function bindData(){

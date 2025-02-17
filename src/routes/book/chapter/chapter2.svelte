@@ -12,6 +12,7 @@ const data = {
                 "/images/books/valkyriextruck/chapters/chapter2/hallway.webp",
                 "/images/books/valkyriextruck/chapters/chapter2/officer.webp"
            ],
+    "imagePercs": [0,.18,.48, .80 ],
     "next": "chapter-3",
     "previous": "chapter-1"
 }

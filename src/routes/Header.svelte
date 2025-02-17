@@ -8,11 +8,9 @@
     
     function handleScroll(event) {
         const currentDelta = event.deltaY;
-        console.log("currentDelta: ", currentDelta);
         // Calculate new translate value
        if (currentDelta >=0 ) {
 		    if (!component.classList.contains("hide")){
-			    console.log('adding hide-nav', component.classList);
 		    component.classList.add("hide");
                     
 		    }} 

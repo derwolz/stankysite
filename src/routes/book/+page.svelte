@@ -3,7 +3,7 @@ import { onMount } from 'svelte';
 import Popup from "/src/routes/popup.svelte";
 
 // Book Metadata
-const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":3}
+const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":4}
 
 import Chapter1 from "./chapter/chapter1.svelte";
 import Chapter2 from "./chapter/chapter2.svelte";
@@ -24,7 +24,7 @@ let currentImageClass = 'current';
 let previousImageClass = 'previous';
 let nextImageClass = 'next';
 let images = [];
-let data = {previous:false, next:false};
+let data = {previous:false, next:false, imagePercs: [0]};
 
 function getScrollPercentage() {
     const doc = document.documentElement;
@@ -44,39 +44,94 @@ function handleDataUpdate(event) {
     images = data.images;
 }
 
+function inView(node, options = {}) {
+    const {
+        root = null,
+        rootMargin = '0px',
+        threshold = .3,
+        once = true,
+        onIntersect = () => {},
+    } = options;
+
+    // Create the observer
+    const observer = new IntersectionObserver(
+        (entries) => {
+
+            entries.forEach((entry) => {
+                if (entry.isIntersecting) {
+                    // Add class when element comes into view
+
+                    entry.target.classList.remove('unseen');	
+                    requestAnimationFrame(()=>{
+                        entry.target.classList.add('drop-reveal');
+                    });
+                    onIntersect(entry);
+                    // If once is true, disconnect after first intersection
+                    if (once) {
+                        observer.disconnect();
+                    }
+                } else {
+                }
+            });
+        },
+        {
+            root,
+            rootMargin,
+            threshold,
+        }
+    );
+
+    // Start observing the node
+    observer.observe(node);
+
+    return {
+        destroy() {
+            // Cleanup when component is destroyed
+            observer.disconnect();
+        },
+        update(newOptions) {
+            // Handle dynamic options updates
+            options = { ...options, ...newOptions };
+        },
+    };
+}
+
 function getIndexFromPercentage(percentage, arrayLength) {
     // Ensure percentage is between 0 and 100
     const clampedPercentage = Math.min(100, Math.max(0, percentage));
-
     // Convert percentage to decimal (0-1)
     const decimal = clampedPercentage / 100;
-
+    console.log(decimal);
     // Calculate index
     // Subtract 0.001 to ensure 100% returns last index rather than undefined
-    const index = Math.floor(decimal * arrayLength - 0.001);
-
-    // Clamp index between 0 and arrayLength - 1
-    return Math.min(arrayLength - 1, Math.max(0, index));
+    let idx = 0;
+    for (let i = 0; i < data.imagePercs.length; i++){
+        if (decimal > data.imagePercs[i])
+    {
+            idx = i
+        }
+    }
+    return idx
 }
- 
+
 async function handleEmailSubmit(event) {
     const email = event.detail.email;
-   let message; 
+    let message; 
     try {
         // Create FormData object
-       const formData = {email};
+        const formData = {email};
         const response = await fetch('/api/subscribe', {
             method: 'POST',
-	    headers: {
-				'Content-Type':'application/json'
-			},
+            headers: {
+                'Content-Type':'application/json'
+            },
 
             // Remove the Content-Type header - it will be automatically set for FormData
             body: JSON.stringify({email})
         });
-        
+
         const data = await response.json();
-        
+
         if (response.ok) {
             message = data.message;
             error = '';
@@ -110,6 +165,11 @@ function updateImage(scrollPerc) {
         }, 500); // Match this with CSS transition duration
     }
 }
+
+function changeImage(image){
+    console.log('hi', image);
+}
+
 let chapterMax = 5;
 function handleSignUp(){
 
@@ -123,11 +183,11 @@ function handleNavigate(page){
     p = p 
     p = p >= metadata.released ? metadata.released -1  : p;
     current = p;
-  window.scrollTo({
-    top: 0,
-    behavior: 'smooth'
-  });
-    
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+
 }
 </script>
 <svelte:window
@@ -159,7 +219,7 @@ function handleNavigate(page){
 <!-- Wrap the content in a container with proper styling -->
 <article class="relative prose prose-lg max-w-3xl mx-auto px-4 py-8">
     <div class="markdown-content">  
-        <svelte:component this={Chapters[current]} on:bindData={handleDataUpdate} parentData={data}/>
+        <svelte:component this={Chapters[current]} on:bindData={handleDataUpdate} parentData={data} changeImage={changeImage}/>
 
     </div>
 
@@ -167,13 +227,13 @@ function handleNavigate(page){
 
         {#each Array(metadata.planned).fill() as _, i}
             <button class={
-                    `min-w-17  my-12 p-4 text-white font-tech 
-                    ${current == i ? 'bg-orange-600 hover:bg-orange-800' :
+                `min-w-17  my-12 p-4 text-white font-tech 
+${current == i ? 'bg-orange-600 hover:bg-orange-800' :
 
-                    i < metadata.released ? 'bg-gray-600 hover:bg-gray-900' :
-                    'text-gray-800 bg-gray-900' }
-                `}
-                    on:click={()=>handleNavigate(i)}
+i < metadata.released ? 'bg-gray-600 hover:bg-gray-900' :
+'text-gray-800 bg-gray-900' }
+`}
+                on:click={()=>handleNavigate(i)}
             >
                 {i+1}
             </button>
@@ -203,26 +263,26 @@ function handleNavigate(page){
     </nav>
 
 
-<div class="button-container">
-<button on:click={()=>showPopup=true}>
-Stay up to date
-</button>
+    <div class="button-container">
+        <button on:click={()=>showPopup=true}>
+            Stay up to date
+        </button>
 </article>
 {#if showPopup}
-		<Popup
-			on:submit={handleEmailSubmit}
-			on:close={() => showPopup = false}
-		/>
+    <Popup
+        on:submit={handleEmailSubmit}
+        on:close={() => showPopup = false}
+    />
 {/if}
 <style>
 
 
 .button-container{
     position: relative;
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 .button-container button {
     position: absolute;
@@ -235,18 +295,18 @@ align-items: center;
     color: #fff;
     border: 1px solid #fff;
     transition: background-color 1.4s ease-in-out, 
-                color 1.4s ease-in-out,
-                border-color 1.4s ease-in-out;
+        color 1.4s ease-in-out,
+        border-color 1.4s ease-in-out;
 }
 .button-container button:hover {
-background-color: #fff;
-color: #000;
-border: 1px solid black;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid black;
 }
 .button-container button:active {
-background: #990000;
-color: #fff;
-border: 1px solid #fff;
+    background: #990000;
+    color: #fff;
+    border: 1px solid #fff;
 }
 .image {
     transition: opacity 0.5s ease-in-out;
@@ -308,7 +368,7 @@ border: 1px solid #fff;
     @apply h-4;
 }
 :global(.poem){
-    @apply        my-8;
+    @apply    italic    my-8;
 }
 
 :global(.poem p)  {

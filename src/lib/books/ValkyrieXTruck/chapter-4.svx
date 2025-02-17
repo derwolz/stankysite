@@ -1,0 +1,493 @@
+
+---
+
+title: "Departure"
+
+---
+
+
+
+
+<div class="image-container">
+<picture class="chapter-head">
+    <source
+        media="(min-width:800px)"
+        srcset= "/images/books/valkyriextruck/chapters/chapter4/heading.webp"
+        />
+    <source
+        media="(max-width:799px)"
+        srcset="/images/books/valkyriextruck/chapters/chapter4/heading-s.webp"
+        />
+        <img
+           src="/images/books/valkyriextruck/chapters/chapter4/heading.webp" 
+           alt="delivery truck"
+           decoding="auto"
+           />
+        </picture>
+</div>
+<div class="chapter-divider"></div>
+
+# Chapter 4: Departure
+
+
+"I'm sorry sir, but visiting hours are between 7 and 11 am. You'll have to come back tomorrow." The woman on the other side of the glass didn’t even glance at him. Instead, she continued to read her book. Max, almost petulant, clenched his fist in the air.
+
+"Will you just look at your own clock?! It's 9:05! At least let me get a minute of talking..." His angry words were cut short by the speaker’s squelch.
+
+"Sir, I need you to calm down, just come back tomorrow." The response was monotone.
+
+"Can I at least know how she is?" he pleaded, pressing his fist against the glass.
+
+"Do you have a first and last name?" The voice asked begrudgingly, as she continued to read. A sense of hope welled in Max.
+
+"Her name is Runa," he started. His eyes darted to the floor and mind churned in thought; the confrontation in the hospital, her strangely melodic yet monotone responses, their escape, the officer’s cold smile. The black thing swirled in his mind. He shuddered, feeling the ghost of the surreal liquid on his hand. “That’s… all I have.” he admitted.
+
+"I can't do a first name lookup, sir, too many cross hits." She looked up, her disdain palpable as she peered over her cat-eyed glasses. Her gaze lingered just long enough to meet his before she returned to her book.  His mouth fell open and fists balled together. 
+
+"Do you do anything!" he screamed.
+
+"Sir, with all due respect,” she flipped the page of her book, “We have a building filled with dangerous criminals. We can't just let someone show up uninvited." She turned in her seat, moving the book just out of view as she continued to read.  
+
+	In a fit, Max stormed out of the station, grumbling and stomping on the asphalt. He slammed the car door shut and pressure spiked in his ears
+
+"It's just like before. Completely unhelpful and stupid." He said in a growl. 
+
+"Maybe we should take a breather and come back later." Barbara replied calmly, concern layered in her voice. She shifted her hands on the steering wheel and watched her beleaguered son. 
+
+"No Mom, you don't get it,” Max explained. His voice cracked, becoming hoarse as pain radiated down his throat, “They told me that visiting hours were closed, despite being between 7 and 11 am. They're screwing with me. I’m going to find out why." His posture sagged in his seat as he pinched the skin of his brow.
+
+"I think the best thing you can do for yourself and Runa is getting some rest right now," His mother reassured, gently resting a hand on his left shoulder. He let out a frustrated sigh, slumping against the window and stared angrily at the brick structure.
+
+"You're right," Max resigned, his voice softening. 
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+
+Runa traced her finger along the cold steel of the table,  the unceasing gray light illuminated her colored form on the mirror. A loud shriek blared over the barren still, painfully drilling into her ear.
+
+"Y'know there's something I really hate about your type." The metallic voice of the intercom dinged across the room. The door pushed open and the officer stepped in, carrying a microphone next to his mouth. "It's that you don't know when to quit." The duality of the loudspeaker and his voice created an uncomfortable cacophony. He tossed the microphone into the wall and it blurted a large squelch. "You see, it seems your friend is a little luckier than anticipated." He slammed his hands on the table, leaning over it. "But don't worry. It'll be over for him and his family soon enough. Should have just died when he had the chance." 
+
+Runa straightened, her steeled eyes gauging the distance between them. 
+
+"So what are you going to do with me, then?" She asked, her voice carrying a hint of anger.
+
+"So cold, do you not care about your ward?" The voice teased.
+
+"This is battle." Runa growled and tested the chain. The scabs on her wrist split open and blood twirled down the silver line.  
+
+"You should hold your pawns in higher regard." He pushed up from the table and straightened. "Never mind that, the past is the past after all; and as for you, I need to send the old man a message." A wicked smile caressed his lips. "Tell him that the death he's so scared of is finally coming for him." He turned his back to her and drooped his head to the floor. "Swear on him that you'll deliver the message and I'll let you go, as I said." He spun toward Runa. His shadow subtly crawled the wall behind him as slits of orange oozed along the blackened surface. "Otherwise, you won’t be able to count the number of times I kill you."
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+Max woke to the deceleration of the car. His eyes opened to the quaint celeste blue house with sandy trim. The cobalt-colored delivery truck stood on the curb, next to the small corner garden filled with a myriad of oranges and lavenders. His mother glanced at him, seeing him sit up in his seat. 
+
+“We’re home.” She said.  Her hand pressed the shifter into park, before turning more fully to him. “How are you feeling?” 
+
+“I’m… fine. Still tired.” He said and wearily rubbed his sleep-deprived eyes.
+
+“Can you tell us about what’s going on? We’ve been worried sick for weeks.”  His mother begged.
+
+Max finally noticed the distress in her voice and looked at her. Her gray-blonde hair glinted brightly in the afternoon sun. Her muted plea turned to soft sobbing. The wrinkles of time creased her worried face. His mother embraced him awkwardly across the console. Her warmth whispered serenity. Her scent surfaced wistful memories of innocence.
+
+“Mom, I don’t know what’s happening,” Max said. His arms wrapped around her and held her tight.
+
+“Do you need to get involved with her?” she pleaded in his ear, her tears staining his shoulder.
+
+“I can’t just leave her.” Max muttered and let her go. He gently pushed the sullen woman back to her seat.
+
+“The police said that she’s killed people.” His mother challenged. Her voice carried a tremor of fear. The image of the gun flashed in Max’s mind; Runa’s cold stare bore down in his head. He dispelled the thoughts with a shake.
+
+“She saved my life and I’m not sure these ‘officers’ are telling the truth. There’s also the…” Max stopped. The dream and memory of distorted horror pressed into his mind. He shuddered.
+
+“What’s wrong?” Barbara asked, peering into his darkened eyes.
+
+“It’s… nothing, a memory of a bad dream,” He stuttered and exited the vehicle. The smell of green grass wafted into his nostrils, the memories of his home played distantly in his mind. He walked to the mahogany door as he continued, “The nurse said Runa watched over me at the hospital.”
+
+“Your Father didn’t want her to, since she hit you with a truck—, but she also brought you to the hospital.” His mother said, as she strode beside him. She wiped her face in her pastel blouse and took a deep breath. “I didn’t think it would hurt to have someone watch when we couldn’t,” she shifted hesitantly, “I think it's clear how wrong I was.”
+
+“She didn’t do anything to me after the acci…” Max started, interrupted by the thought of her manhandling him twice. “Well, anything that would actually hurt me.” He admitted.
+
+“What do you mean by that?” Barbara responded. Her tone grew serious as her blue eyes drilled into Max’s head. 
+
+“I woke up and she tried to stop me from panicking, then she lifted me out of bed despite her bad leg,” Max explained. His eyes rested on the smashed door handle. “Those policemen didn’t even knock.” He scoffed and shoved the door open.
+
+Sally stood in the entryway, studying him with serious hazel eyes that belied her mischievous grin. 
+
+“Welcome home!” She beamed at them.
+
+“Get out of here, you unholy terror,” Max growled at her and Sally sprinted away shrilly screaming, her brown messy hair flailing behind her.
+
+“Sally will you sto…” His father started, leaning his head out of the bedroom. His baggy eyes assessed them as they entered. He stepped into the open living space and beckoned them inside, “Welcome back. I have some pizzas cooking already.”
+
+“Baking.” Barbara corrected, shaking her head. She followed Max before leaning against the crest of the couch.
+
+“It said cook time on the package, not bake time.” John responded, chuckling. His hazel eyes shifted to Max probing him uncomfortably. “So I take it we eat, then take Max to the hospital?”
+
+“I’m not going ba…” Max started.
+
+“Are you kidding? They need to figure out what’s going on with your shoulder.” His father interrupted. 
+
+“I… it’s fine, the doctor said it’ll heal anyways.” Max deflected. 
+
+“Did he really say that?” John pressed, “Why did they want to send you to the Mayo clinic then?”
+
+Max’s gaze drooped to the floor. He pinched his brow, pressing a thumb into the corner of his eye.
+
+“Yes Dad, he did say that,” He said defensively, “But, Runa…”
+
+“I don’t think you should be involved with her…” John snapped.
+
+“You don’t know what’s going…” Max interjected before being cut off by his mother.
+
+“You said yourself that you didn’t know what’s going on,” she explained. Max shot a look of betrayal at his mother. 
+
+Sally skipped into the room with phone in hand and a video blaring. Their heads turned in unison to the young girl. Barbara rolled her eyes. Max felt fatigue wash into him.
+
+“Sally, will you turn that off?” His father growled, reaching out his hand.
+
+“I wanted to show Max this,” Sally explained and gleefully rushed next to him.
+
+“Can this wait until after lunch?” Max groaned, “I’m tired and need to think about everything.” 
+
+Sally started the video before he finished talking. A loud foreign tongue erupted from the small device.
+
+Max looked down at a cartoon of a carefree young girl and words danced across the screen. 
+
+“Why would I wan…” He started. The girl left her yard into the waiting hood of a delivery truck.  Heavy metal music exploded as her body twisted through the air, rhythmically flicking splats of blood onto the screen. Illegible characters scrawled themselves into the scene. The phone shook in Sally’s hands. Her head twisted upwards as tears streamed down her childish face.
+
+“Thanks for not dying.” She blubbered out. Max fell. He knelt down and embraced his sister. He cried, unable to express the words driving through his soul. John and Barbara, looked on at the two, simultaneously overwhelmed and deflated. His father retreated to the kitchen and his mother moved next to the two, massaging their backs. 
+
+“Now I have to show you this!” Sally exclaimed with tears flowing down her cheeks. She flicked the screen past several images, stopping on a video of a live orangutan steering a go-kart through a neighborhood. It waved, almost human-like at the neighbors as it drove by.
+
+“What if this guy got you instead?” She asked fighting back the stream. Max blurted sobbed laughter.
+
+“You’re insane.” He chuckled, “Though I suppose an orangutan would have made you jealous.”
+
+“What?” She giggled.
+
+“I would have had a monkey to myself for two weeks.” Max bobbed his head from side to side, widening his eyes. “And you would have to be at school knowing that.” Sally frowned, stowed her phone in her pocket and kicked Max in the shin.
+
+“I’m glad you didn’t get hit by a monkey.” she quipped, before sprinting silently to the kitchen. Max stood, wiping his eyes dry and chuckling lightly.
+
+“I don’t know what to do Mom.” He said, as he reflexively spun away from her petting. “I… I don’t think Runa has this.”
+
+“What do you mean?” Barbara asked, raising a brow.
+
+“She was injured and came to me,” Max explained, as he leaned against the crest of the couch beside her. He grabbed his chin, as he spoke toward the floor, “She watched over me for 2 weeks. I don’t think she has anyone to support her.” He furrowed his brow, eyes moving to something beyond the tile in front of him,  “She was terrified of that officer.”
+
+“She’s a criminal,” Barbara emphasized with a roll of her eyes, “of course she’s scared of the law.”
+
+“If she was a criminal, why would she protect me? Who even knows who I am? She was at the hospital for weeks; why did the police wait? What about her injury? What caused that?” He spouted a  flurry of questions that crashed into Barbara. She squared her shoulders and balled her fist until they shook. Her angry glare pressed into him. 
+
+“What about the hole in your shoulder? Who caused that? What about the accident?” His mother asked, each question growing in volume.
+
+“Runa did…” Max responded weakly, “It’s just…”
+
+“Alright, pizza’s out!” John’s voice boomed from the kitchen. Barbara looked at Max  with pleading eyes, as his gaze fled to the kitchen.
+
+“We’ll talk about this in a bit,” She reassured before towing him into the kitchen.
+
+“So,” John started as he rolled the cutter across the cheap pizza, “I assume you’re not being charged with anything?” 
+
+Across from Max sat an eager Sally rapping her fork to some arcane tune. She stopped her racket and pressed the fork into her cheek, making a playful, dying face. 
+
+“They didn’t tell me anything, so I don’t think so.” Max explained, before sitting. He grabbed a napkin and folded it into a small triangle. “Why aren’t you at work today anyways?” He asked and snapped his finger forward, rocketing the paper projectile across the table. 
+
+Sally discarded the fork. Her hand bolted upwards as the paper flew past. She followed after it, grasping the air before the paper, then her hand, slammed into her nose. She yelped and ducked below the table.
+
+“The brass are having some joint exercise in California, so the boss canceled work.” John said with a sigh. He laid a piece of pizza on Sally’s plate.
+
+Max felt a tug on his shoe. He jerked, popping it off. 
+
+“What the?” He questioned and looked under the table. His sock-covered toes wriggled in the cool air.
+
+“Sally, stop it.” Barbara snarled, “Keep the shoe away from the table.” 
+
+He snapped upward to see Sally running off with her canvas bounty.
+
+“Terrorist.” He growled at her before grabbing a slice of pizza. He bit into it, slowly munching as the tiny saboteur faded from memory. His gaze drifted to his father, as the conversation returned, “Wait, that makes no sense. Wouldn’t more planes need to be fixed?” 
+
+“Sure but what can I do about it?” John spoke as he grabbed a couple slices. “Apparently they moved every plane out of the airfield. There’s no work.” The expectant weight of his gaze rested on Max’s shoulders.
+
+“I… I guess I’ll start applying for jobs then.” Max muttered.
+
+“The boss always pulls through. You should focus on getting into College, maybe a little less time skateboarding?” John tested and deftly shoved down the entire slice in his mouth. 
+
+“Where is my skateboard? I didn’t see it by the door.” Max probed,  scanning the entryway for his errant ride. John’s mouth snapped shut and eyes darted to Barbara.
+
+“John,” She growled and subtly motioned between him and Max’s shoulder.
+
+“I’m sorry, it was smashed in the accident” He said and returned an apologetic glance at Barbara.
+
+She glared, before pressing a finger to her shoulder.
+
+“Oh,” His father started, “You need to focus on recovering for now,”
+
+ Sally sat in her seat and picked off sausages from her slice, arranging them into a smiley face on her plate. Barbara reached over, plucked one of the pieces from the center and placed it in her mouth.
+
+“Stop it!” Sally yelled as she covered her food. 
+
+“You’ll need to eat it if you want to protect it.”  Her mother chided playfully. Sally continued plucking the sausages off her pizza and clumsily fought her mother off with a small hand. Her father came in from behind and snatched the nose of her sausage art. 
+
+Sally let out a savage, childish war cry. She drove the fork downward and stabbed the eye of her sausage pictogram, before stuffing it in her mouth. Her glare rapidly darted between her parents.
+
+Barbara leaned back into her seat, shaking her head. Her eyes drifted to Max as he stared into his grease splotched plate. His white skin blended with the pale wall behind him.
+
+“Max?” Barbara called and watched as his tired eyes drifted to her. “I think it’s time you got some rest.”
+
+“Yeah,” He said wearily. He looked over to his father. “Dad, I’m going to help Runa out.” 
+
+“How and why?” John snapped as his eyes bolted over from Sally. “There’s no way that leg’s staying attached and the police can get her to the hospital.” 
+
+“I…” Max started, “I don’t know how, but police don’t steal and they didn’t give us a warrant before kicking in the door, did they?” His head drooped back to his plate.
+
+“You have a lot to learn about the world.” His father started, “I don’t want you throwing away your life because of some half-dead girl. You’ll find another one; hopefully less — enthusiastic.” His words bit into Max.
+
+“It’s not about that.” Max growled. “It’s the right thing….” his voice trailed. The memory of Runa’s pained groaning haunted his ears. “I need to know what’s happening.” 
+
+“You should have taught him to be a little more selfish.” John groaned as he drifted to his wife.
+
+“Max,” She started calmly, “It’s ok, we’ll go back tomorrow. Officer Jenkins left us a case number, maybe that will help.” 
+
+Rage swelled in Max at the mention of the officer. He shakily stood, steadying himself against the table.
+
+“I’m going to bed.” He stated, before clumsily stomping away. 
+
+“Good night, we’ll talk about it after you’ve had some sleep.” Barbara responded. 
+
+Max stumbled to his room. His shuffling, huddled form concealed his tired rage. A tug on his arm stopped him as he entered. Sally’s small hand gripped his palm.
+
+“Don’t go.” She pleaded as she stared at the floor. 
+
+“It's fine, I’m just going to bed.” He reassured. She held his hand, leashing him to the hallway, piercing him with teary hazel eyes.
+
+Max gripped the side of the door frame and lowered himself to her ear.
+
+“It’ll be fine, don’t worry.” He whispered. 
+
+“Liar,” she spat and threw his hand before sprinting to her room.
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+The sun dipped below the horizon; the gold-red rays bounced on scattered clouds. The cold air flowed across Max, protecting him from the sweltering heat. His alert eyes stared down the highway and a pump-action shotgun laid on the seat beside him. 
+
+He glanced at the weapon. Its shadows deepened in his mind, seeming to split with orange light. The rush of air across the cabin echoed that damned wail. A car honked and He shuddered. His gaze shifted to the road, drowning the bifurcated horror. In the distance, the large gray-beige corporate building snaked out of the myriad of featureless structures. His knuckles whitened as he stepped down on the accelerator.
+
+The blue truck wound through labyrinthian streets. The black of night drowned the sun's golden rays.  Max drove past the church. The fluorescent glow illuminated a small crowd inside, with the minister standing neatly at its peak. 
+
+A glimpse of gold flashed in the corner of his eye. Max slammed the brake, throwing  his head  forward with a jerk. Before him, Runa swung her arms. Headlights illuminated her figure against the amber-blue of streetlamps and night. She dashed to the side of the truck and popped it open.
+
+"I see you procured a weapon." She stated and leaned the gun against the partition. Gliding into the seat, she buckled herself in a smooth motion, before continuing, "We need to go to St. Helens." Her celeste eyes met Max's green, her face the essence of serene. "Well, what are you waiting for? Move." She commanded. 
+
+Max’s mouth fell agape. His eyes affixed to the brilliant creature. 
+
+"I thought you were in trouble.” He muttered.
+
+"I was, now I’m not. The officer let me go." She stated, her bright complexion contrasted starkly with her cold face.
+
+"Let you go? He was insistent on keeping you. He terrorized my family to get you. Why would he just 'let you go'?" Max rattled. He shifted the vehicle into park and squared his shoulders with her. "I need answers before we go anywhere." 
+
+"They have my gun," she stated as a matter of fact. Her eyes quickly scanned him while her face remained unfazed. “Now go.” 
+
+"Okay... and what does that have to do with anything?" He probed, carefully watching for any reaction from the iridescent woman. 
+
+“We’re wasting time. If you don’t drive, I will.” Runa offered. Her gaze dashed to the wheel.
+
+"Don't deflect. I’ve had more than enough of that for a lifetime. I need to know what's going on. Who are you? Why did you try to kill me? Why is your gun the first thing on your mind? We're in your safe space now, so talk. You promised." He grilled, finding footing with each successive question.
+
+"I can't return home without my gun," She spoke as she mutely glared at the boy. “Now drive before I do.” She said with wheel-bound eyes.
+
+Max’s brow spiked. He shifted back to the wheel and put the truck into drive. 
+
+"I'm starting to think I made a mistake in coming here." He sighed and spun the truck around, “driving now, so answer my questions.” 
+
+"It's difficult to explain. Without it, I won’t make it back." She spoke as she shifted backward. The rigidity of her form melded with the bucket seat behind her.
+
+"So, are you alone then?" He asked, glancing at her. Her graceful, yet robotic nod affirmed.  He forced a frown and hardened his eyes. "This…" He growled as he pressed into his wounded shoulder, until his finger soaked red, "is your fault. I want to know why..."
+
+Soft vibrations in the cabin cut off his thought. They turned into large rhythmic bounces, as the world bent and twisted around the cabin. The road groaned under the shifting mass. The orange glow of the street flickered, dancing with the darkness.  The rhythmic bounces subsided to an eerie still.
+
+“And what’s with these quakes?” Max snapped. 
+
+Runa gazed into the blackened street, listening to the shrieking alarms. Her eyes darted from shadow to shadow and hand gripped the door.
+
+"The officer from before. He bound me and I must go to St. Helen’s. You should say your farewells to your..." She stopped. Her eyes fixated on a point in the darkness. Her serene expression exuded frigid air.
+
+"Family? Stop being so cryptic, what about them."  Max said as his muscles tensed.
+
+"It's too late. The officer already sent his assassins after them." She spoke. Her words froze his blood. In an instant, the truck was in motion, suddenly swerving around traffic and rocketing past the church.
+
+"By assassins, you mean those tar-things?" He asked, his voice trembled and knuckles flashed white. Blood drained from his legs. His chest and hands burst with heat. 
+
+“What is a tar-thing?” She asked, twisting her head gracefully toward him. Her golden hair danced between them with the rapidly twisting and turning vehicle. Her almost bored expression, stared expectantly for his answer.
+
+“I don’t know. I don’t even know how to describe it. Other than black and liquid, orange eyes everywhere.” He spoke as he flew by the parked vehicles on either side. Sweat poured down his brow and pulse quickened as he talked.
+
+“Void-Anima?” Her monotonal voice barely peaked as her tongue tested the foreign sounding phrase.
+
+“Congratulations, you named it! What is it?” Max snapped. His eyes darted between Runa and the chaotic traffic.
+
+“I… don’t know. It doesn’t matter,” She explained, “We can’t rescue them. I don’t have my gun and they will be dead.” Max pulled onto the freeway and slammed the accelerator.
+
+“I don’t care what he has. We have a gun right here.” He growled and pointed his elbow to the shotgun. 
+
+“That can’t kill it.” She said, blankly gazing out the windshield. “If we go there, we will die too.”
+
+“I don’t care!” Max shouted.
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+The red and white of tail lights flickered as he passed each car. Orange lamps glowed against the black sky. The grip of rubber pulled at Max’s palms and sweat beaded down his brow. Each labored breath failed to steady his quickened pulse. He rounded the corner, bringing an ink-stained blue house into view. Two cars were parked in the driveway. 
+
+Max drew the truck alongside the curb and an acrid smell entered his nose.  His eyes darted to the sand trimmed black windows. The doorway stood open with a tarry trail beckoning him into the houses maw. His hands squeaked against wheel. Images of smiles, warnings and death, torrented through his mind. He parked and grabbed his gun. The door protested with a screech as he threw it open. The shotgun jerked against him as he stepped out. He turned to see Runa grabbing the barrel.
+
+"Don’t do this," She warned, her emotionless face betrayed by a stern growl.
+
+"Let. Go." Max commanded. His steely gaze shot green barbs as he enunciated each word. Her own darted to the wheel then to the house and finally swept back to him.
+
+"Stay, pup." She directed and threw the gun. Pain exploded in his face as the barrel struck him. He touched his forehead. Warm blood ran down his cold, shaking hands. 
+
+She threw her door open before shooting another ice laden stare into Max. She glided to the driver's side and closed the door firmly into place. With a finger pointed at Max, she mouthed her warning again, before slinking gracefully to the wall of the garage. She peeked around the corner and headed to the doorway.
+
+Pitch covered the entryway's floor. With precision, Runa danced to either side of the doorway, keeping her head on a swivel. Stepping into the living room, she cast her eyes across the murk. The black slime traveled along the floor, smothering a bag of strewn fast food. A Y-shaped trail entered the first room on the right. She slunk to the door and peered in. The black stain slithered past a gun safe, making its way into the bed. A shadow spread permanently across the undisturbed covers.
+
+Runa slid into the hallway, tracing that ever-present black mark to the next room. She peered in, seeing the sludge leading to the bed. The curtains flapped inward by the window. The summer breeze failed to alleviate the thick scent of decay. Haphazard posters lined the wall, now masked by shadow. Runa stepped into the room, her guard raised, eyes alert. 
+
+Pain slammed into her back, sending her tumbling to the ground. Shards of broken dresser splintered in the air, digging into her arms. She grunted and caught herself with wood pierced hands. With a forced breath her head bolted up.
+
+Below the bed, luminous orange  peered against the tenebrous pitch. An umbral cord shot out toward her face, biting into her arm as she blocked it. Its sandy, slimy form curled around her appendage. The room shifted. The walls danced and shadows crawled around her. She grabbed it and its liquid form pressed around her fingers as she squeezed. Springing to her feet, she pulled the orange-eyed-ink from under the bed. The orbs squinted in glee, chittering and giggling as a smear followed in its wake. The black limbs stretched and pulled, grasping and coiling around the bed frame.
+
+Runa yanked the tendril free with a pop. The shadowed walls ceased their dance. With the slam of her foot, she twisted and hurled the voidal thing into the hallway. The creature slammed against the drywall, snapping it and pouring white powder on its tarry form.  The unceasing elated squelching sang in tandem with its alien chatter. The form fused and flowed outward as Runa approached.
+
+Gunfire roared out. The creature of pitch exploded, sending a shower of tar and orange backward. She sprinted into the hallway, seeing Max standing in the living room, shakily pointing where she stood. A second blast erupted from the shotgun. The buckshot bit a familiar zip across her abdomen and slammed into the coalescing creature behind her. He quickly lifted the weapon. 
+
+“I…” he started.
+
+"Get out!" Runa barked. A bite dug into her leg and ripped her foot backward. She slammed her head into the floor and her nostrils flooded with coppered fluid. 
+
+Tiled flooring swirled in her sight. Its lines formed claws that twisted, carrying a bloodened scent that permeated her eyes. Its chittered calls, crept through her leg and pulsed in her veins. 
+
+Max watched as Runa clawed her face. The sickening black tar coiled around her injured limb.  He raised the gun and his struggling arms trembled against its weight. He fired and pellets exploded around her ensnared leg, leaving a pristine silhouette amongst the broken tile. The tenebrous tentacle shredded, splotching ink along the wall. Max stepped backward into the open living space and pointed the gun down the hall. 
+
+The floor snapped to its normal grid. The creature’s calls stung her ears. Blood rolled down Runa’s face and the burns and cuts of clawed skin surrounded her eyes. Her gaze darted to the dendritic, inken tendrils crawling along the floor. She grabbed a tentacle, its silty wet form slipped through her fingers. She clenched the limb, hardening its viscous material before whipping it back down the hallway. It slammed into the door snapping hinges and sending wooden shards flying down the corridor. With catlike grace, Runa flew to her feet and backed away from the fusing mass. She slammed into Max, sending him sprawling to the ground. Her foot caught on his leg and tripped her to the floor.
+
+The eyed slime surged, coiling and crawling along the dark house’s surfaces. Max felt a bite at his ankle. The wet coil wrapped and flowed around his leg.
+
+Above him stood Sally, her smart orange eyes accented by her childish grin.
+
+“Get up, silly,” it said. She motioned to the couch excitedly, “You said we’d watch a show together.”
+
+Max looked around the dimly lit room. His mother worked in the kitchen and Sally sat on the couch, staring at him with anticipatory eyes.
+
+He stood, a distant burn gnawed at his leg. Turning to his mother, he shouted soundless words. She twisted and shook her head disapprovingly.
+
+“You have time to finish a show.” It said, Barbara turned to continue her work. “I’ll get you when it’s done”
+
+Max continued his noiseless tirade and grabbed Sally by the hand, leading her to the front door.
+
+“You want to play hide and seek instead?” It said, her eyes giggling. 
+
+He protested in silence and threw open the door. A shaft of otherworldly orange flooded into the room, creating a stark contrast across Sally’s childish features. Her skin separated and unraveled revealing vantablack innards. They peeled from her form, sending inken coils of skin and flesh across the tile floor.
+
+“No!” It screamed as stretches of her tissues melded with the ground. His hands shook as he stared at the unfurled afterimage of the orange and black girl.  
+
+“Sally…” he cried, unable to utter the thought. His mother ran forward, knife in hand.
+
+“If you hadn’t snuck out this wouldn't have happened!” It screamed as she pointed the blade at him.
+
+Max fell to his knees and tried to scoop up the shadow of his sister. His mother descended upon him with the knife. She stopped. An eyelid opened along the length of her shaking arm. The orange pupilless orb darted toward Max. Pain grew in his leg and the room around him undulated, the walls peeled away to white, taking his knife wielding mother with it.
+
+The world around him coalesced, the stippled and shadowed ceiling of his living room laid above him. A pungent odor of decay filled his lungs as his leg burned. Cold flowed from the hard tile floor into his skin. He looked down, seeing the scarlet bite on his leg.
+
+Runa growled and grabbed the non-newtonian tendril. With a heave, she threw the creature through the window. Glass shattered, sending thousands of shards scattering across the room. 
+
+"We can't win," She stated before offering him a hand. "Get back to the truck." She hauled Max onto his feet. The creature oozed over the window, its mass of tentacles propelling it into the room. Curtains and furniture peeled away from themselves revealing orange orbs. Unearthly beams of light scattered around the room. Max felt Runa shove against his chest, toward the front door. 
+
+"Run!" She shouted, as a black coil shot into her arm, binding and swirling around it. She watched as his form propelled itself away from her, becoming infinitesimal in her sight. The door fell into geometric spiraling forms as it faded. The room widened, leaving nothing but void and a coil on her cold arm.
+
+Max raised his gun to fire and it hurled itself across the dark room.  A black line pulled its barrel. A second tendril bit into Runa's feet. She flailed blindly against the darkness, stomping and catching a blackened cord. With a twist, she pulled the thing free from her leg, flicking ink and shadow across the room. Her arm swung wide, dragging the blackened thing off of the walls before hurling the mass down the hallway. It smashed into the wall. Wood cracked and splintered, accenting the chittering thing's glee. 
+
+She stumbled drunkenly toward Max, her blue eyes gaining clarity as she broke into a sprint. Ramming her shoulder into him, she hauled him outside, before tearing the truck door open. She twisted and shoved him through the opening before climbing in. He watched the creature roll out of the doorway into the yard,  ink stains and orange eyes formed in the windows. She slammed the door shut and kicked the truck into reverse. Tires peeled against the pavement as a tendril shot into the side of the vehicle. Acceleration pushed him forward and then back as she wheeled the vehicle around.
+
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+
+"Now do you see why my gun is important?" Runa asked as she pointed a fry at Max. The morning sun highlighted the bags under her eyes. The din of idle chatter drowned her words. The glint of the cars hoods shined on the red pleather seats. Heat radiated from the sticky material, drenched in subtle sweat. The savory smell of cooked eggs wafted into his anosmic nose.
+
+He sat across from her. His arms perched in a triangle and hands clasped over his head, lowered in futile prayer.
+
+Unreal visions of Sally’s delamination repeated through his mind. He watch as her sandy form scattered onto the floor and flowed through his imagined grasp. Barbara’s howled words sliced through him, peeling away the memory of his mother’s warmth. His head laid on the table, feeling the deathly cold press against his face.
+
+"I... I just don't know anymore." He mumbled, into the surface.
+
+“Eat up. We have a long road ahead of us." Runa responded before popping a fry into her mouth.
+
+His hands crumbled above him and slowly drifted to his rapidly cooling food.
+
+"I've been through this a thousand times by now." She stated as she ate.
+
+"Without your precious gun?" He snapped and stabbed at the edge of his plate. 
+
+Runa paused. A slight wince of pain and anger crossed her serene face. 
+
+"Well if you had just..." She stopped, slinking back into her chair. "I can try to explain it, but I think it would only confuse you." She continued, before quickly sucking down her soda.
+
+"I don't think I can get any more confused right now." He grumbled, before probing the egg’s yellow. It burst sideways, running across the plate. "Runa? You said you have a family right?" He ventured.
+
+A brunette woman walked to the side of the table and barely halted her forward momentum.
+
+"Are you ready for your check?" She queried as she precariously held a stack of plates. The woman snatched the credit card as Runa set it on the table, before briskly walking away.
+
+Max probed the broken yolk. Barely lifting his gaze to see Runa’s dead eyes and subtle nod. Her stone expression showed no hint of compassion. 
+
+“Do you think I’ll ever see mine again?” He asked. The din of the restaurant quieted as her blue orbs pierced his eyes.
+
+"No."
+
+
+<div class="button-spacing"></div>
+
+
+
+<script>
+    export let bgImages;
+
+
+
+  	
+
+</script>
+
+<style>
+.button-spacing {
+height: 10rem;
+}
+picture {
+display: block;
+width: 600px;
+}
+h1 {
+text-align: left;
+    @apply text-xl; 
+}
+.chapter-head {
+height: 500px;
+opacity: .8;
+position: absolute;
+top:-150px; 
+right:-75px;
+
+}
+.chapter-divider {
+margin-top: 200px;
+
+}
+.image-container {
+position: relative;
+}
+
+</style>
