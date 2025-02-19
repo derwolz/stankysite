@@ -1,6 +1,5 @@
 <script>
 import {onMount} from 'svelte';
-import Chapter from "$lib/books/ValkyrieXTruck/chapter-3.svx";
 
 const data = {
     "title": "The Gilded Cage",

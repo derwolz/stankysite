@@ -5,44 +5,56 @@ import { writable } from 'svelte/store';
 
 export let chapterSlug;
 let components = [];
+// Move show states to component level
+let showStates = [];
 
 onMount(() => {
     const paragraphs = document.querySelectorAll('.markdown-content p');
-    paragraphs.forEach((p, index) => {
+    
+    // Initialize show states for each paragraph
+    showStates = Array.from(paragraphs).map(() => writable(false));
+    
+    components = Array.from(paragraphs).map((p, index) => {
+        // Create wrapper
         const wrapper = document.createElement('div');
         wrapper.className = 'relative';
-        
         p.parentNode.insertBefore(wrapper, p);
         wrapper.appendChild(p);
-        
-        const showState = writable(false);
-        
+
+        // Mount component with reactive show property
         const component = mount(CommentButton, {
             target: wrapper,
             props: {
                 paragraphIndex: index,
                 chapterSlug,
-                show: false
+                show: false // Initial value
             }
         });
-        
-        p.addEventListener('mouseenter', function() {
-            console.log("Mouse has entered");
-            this.component = component;
-            console.log("what is this?",this.component, component)
-            this.show = false;
+
+        // Subscribe to the store and update component props
+        showStates[index].subscribe(value => {
+            component.$set({ show: value });
+        });
+        console.log("addEventListener adding");
+        // Add hover events
+        p.addEventListener('mouseenter', () => {
+            console.log("hello", p);
+            showStates[index].set(true);
         });
         
         p.addEventListener('mouseleave', () => {
+            showStates[index].set(false);
         });
-        
-        components.push(component);
+
+        return component;
     });
-    
+
+    // Cleanup function
     return () => {
         components.forEach(component => {
-            if (component.target) component.target.remove();
+            if (component.$destroy) component.$destroy();
         });
     };
 });
 </script>
+

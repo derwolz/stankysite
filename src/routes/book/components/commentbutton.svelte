@@ -59,7 +59,7 @@ onMount(() => {
     // Initial setup if needed
 });
 </script>
-{#if show}
+{#if !show}
 <div class="absolute " >
     <button 
         class="absolute  -left-8 top-0 opacity-100 bg-gray-800 hover:opacity-100 transition-opacity"
