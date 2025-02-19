@@ -6,7 +6,7 @@ import CharacterCard from './charactercard.svelte';
 import { goto } from '$app/navigation';
 import Popup from './popup.svelte';
 import ProgressBar from './progress.svelte';
-    
+
     let showPopup = false;
 const characters = [{
 	position:"right",
@@ -144,6 +144,8 @@ function handleRead() {
 <svelte:head>
 	<title>Valkyrie X sf Truck</title>
 	<meta name="description" content="A man gets hit by a truck, setting off the end of the world. The driver, a woman by the name of Runa saves his life, but to what end? Read more in this action packed book by first time novelist, King Stanky" />
+
+<script src="https://cdn.amplitude.com/libs/analytics-browser-2.11.1-min.js.gz"></script><script src="https://cdn.amplitude.com/libs/plugin-session-replay-browser-1.8.0-min.js.gz"></script><script>window.amplitude.add(window.sessionReplay.plugin({sampleRate: 1}));window.amplitude.init('d2ea11d4e803a7a46628f259f095a69c', {"autocapture":{"elementInteractions":true}});</script>
 </svelte:head>
 
 <section>
