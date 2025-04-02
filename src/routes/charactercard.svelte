@@ -1,8 +1,9 @@
 <script>
 export let data;
 import {onMount} from 'svelte'
-const { name, title, glow, altTitle, altBg, altDescription ,img, description, position} = data;
+const { name, title, glow, altTitle, altBg, altDescription ,img, description, position, stats} = data;
 import Wiper from "./wiper.svelte"
+import RadarChart from "/src/components/RadarChart.svelte";
 let altActive = false;
 let bgImage;
 let activeDesc = description;
@@ -131,12 +132,19 @@ $: namePosition = windowWidth >=730 ? `${position}-name` : windowWidth >= 601 ? 
 <div class="hidden my-32 h-[80vh] min-h-[700px]   flex flex-col justify-center items-center" >
 	<div id={`${name}`} class={`relative min-w-full h-[80vh]   ${position}-head `}>
 
-		<div class={`absolute t-0   overflow-hidden  h-32 flex justify-content items-center  ${namePosition}`}>
-			<h3 class=" text-6xl    px-2 t-1/2 "> 
+		<div class={`absolute t-0   left-2 flex justify-content items-center  ${namePosition}`}>
+			{#if !altActive}
+			<h3 class="absolute   text-6xl top-1/2   px-2 "> 
 				{name}
 			</h3>
-			<Wiper trigger={mountAnimation} zeroed={true} direction={wipeDirection} duration={500}/>
+			{:else}
 
+			<div class={`${position === 'right' ? 'rotate-90' : '-rotate-90  pt-32'}`}>
+			<RadarChart stats={stats}/>
+			</div>
+		
+			{/if}
+			<Wiper trigger={mountAnimation} zeroed={true} direction={wipeDirection} duration={500}/>
 		</div>
 		<div style={`width: ${dimensions.width}px; height: ${dimensions.height}px;`} class={` ${glow}-shadow character-box overflow-hidden absolute   ${position}-img`}>
 		</div>

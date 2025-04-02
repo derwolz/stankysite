@@ -19,7 +19,10 @@ const characters = [{
 	altBg: "/images/books/valkyriextruck/characters/truck2.webp",
 	altDescription:"Only a temporary reprieve from a world gone mad",
 	h:["37rem", "27rem", "15rem"],
-	w:["30rem","22rem","12rem"]
+	w:["30rem","22rem","12rem"],
+
+//const labels = ['Intelligence', 'Strength', 'Speed', 'Defense', 'Luck'];
+	stats:[0, 60, 70, 80, 30]
 },{
 		position:"left",
 		title:"Maiden of Light",
@@ -31,7 +34,9 @@ const characters = [{
 		glow:"gold",
 		h:["37rem", "27rem", "15rem"],
 		w:["30rem","22rem","12rem"],
-		description:"Not all angels come with wings — some arrive with loaded guns."
+		description:"Not all angels come with wings — some arrive with loaded guns.",
+
+		stats:[50, 90, 80, 60, 0]
 	},{
 		position:"right",
 		title:"Man of Sorrow",
@@ -43,7 +48,9 @@ const characters = [{
 		glow:"green",
 		h:["37rem", "27rem", "15rem"],
 		w:["30rem","22rem","12rem"],
-		description:"Survival requires the sacrifice of everything."
+		description:"Survival requires the sacrifice of everything.",
+
+	stats:[80,24,30,14,100]
 	}
 ]
 
