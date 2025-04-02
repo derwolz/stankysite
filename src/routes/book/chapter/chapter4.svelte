@@ -13,7 +13,7 @@ const data = {
                 "/images/books/valkyriextruck/chapters/chapter4/house.webp"
             ],
     "imagePercs": [0,.10,.27, .51, .69 ],
-    "next": null,
+    "next": "chapter-5",
     "previous": "chapter-3"
 }
 function bindData(){

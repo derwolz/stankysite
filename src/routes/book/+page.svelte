@@ -3,7 +3,7 @@ import { onMount } from 'svelte';
 import Popup from "/src/routes/popup.svelte";
 
 // Book Metadata
-const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":4}
+const metadata = {"Book": "ValkyrieXTruck", "chapters": 24, "planned":5, "slug": "valkyrie-x-truck", "released":5}
 
 import Chapter1 from "./chapter/chapter1.svelte";
 import Chapter2 from "./chapter/chapter2.svelte";
@@ -324,15 +324,15 @@ i < metadata.released ? 'bg-gray-600 hover:bg-gray-900' :
 }
 /* Add custom styles for your markdown content */
 :global(.markdown-content h1) {
-    @apply text-3xl font-bold mb-6;
+    @apply text-2xl md:text-3xl font-bold mb-6;
 }
 
 :global(.markdown-content h2) {
-    @apply text-2xl font-bold mb-4 mt-8;
+    @apply text-xl md:text-2xl font-bold mb-4 mt-8;
 }
 
 :global(.markdown-content p) {
-    @apply mb-1 leading-relaxed font-serif text-justify indent-8 ;
+    @apply mb-1 text-xs md:text-base leading-relaxed font-serif text-justify indent-6 ;
 
 }
 
