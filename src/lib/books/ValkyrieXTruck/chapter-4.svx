@@ -52,6 +52,7 @@ title: "Departure"
 
 "Maybe we should take a breather and come back later." Barbara replied calmly, concern layered in her voice. She shifted her hands on the steering wheel and watched her beleaguered son. 
 
+
 "No Mom, you don't get it,” Max explained. His voice cracked, becoming hoarse as pain radiated down his throat, “They told me that visiting hours were closed, despite being between 7 and 11 am. They're screwing with me. I’m going to find out why." His posture sagged in his seat as he pinched the skin of his brow.
 
 "I think the best thing you can do for yourself and Runa is getting some rest right now," His mother reassured, gently resting a hand on his left shoulder. He let out a frustrated sigh, slumping against the window and stared angrily at the brick structure.
@@ -77,9 +78,11 @@ Runa straightened, her steeled eyes gauging the distance between them.
 "You should hold your pawns in higher regard." He pushed up from the table and straightened. "Never mind that, the past is the past after all; and as for you, I need to send the old man a message." A wicked smile caressed his lips. "Tell him that the death he's so scared of is finally coming for him." He turned his back to her and drooped his head to the floor. "Swear on him that you'll deliver the message and I'll let you go, as I said." He spun toward Runa. His shadow subtly crawled the wall behind him as slits of orange oozed along the blackened surface. "Otherwise, you won’t be able to count the number of times I kill you."
 
 
+
 <div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
 
-Max woke to the deceleration of the car. His eyes opened to the quaint celeste blue house with sandy trim. The cobalt-colored delivery truck stood on the curb, next to the small corner garden filled with a myriad of oranges and lavenders. His mother glanced at him, seeing him sit up in his seat. 
+
+Max woke to the deceleration of the car. His eyes opened to the quaint sky-blue house with sandy trim. The cobalt-colored delivery truck stood on the curb, next to the small corner garden filled with a myriad of oranges and lavenders. His mother glanced at him, seeing him sit up in his seat. 
 
 “We’re home.” She said.  Her hand pressed the shifter into park, before turning more fully to him. “How are you feeling?” 
 
@@ -111,7 +114,7 @@ Max finally noticed the distress in her voice and looked at her. Her gray-blonde
 
 “I woke up and she tried to stop me from panicking, then she lifted me out of bed despite her bad leg,” Max explained. His eyes rested on the smashed door handle. “Those policemen didn’t even knock.” He scoffed and shoved the door open.
 
-Sally stood in the entryway, studying him with serious hazel eyes that belied her mischievous grin. 
+Sally stood in the entryway, studying him. Her eyes, a splotch of orange on a field of green, held a calculated gaze that belied her mischievous grin. 
 
 “Welcome home!” She beamed at them.
 
@@ -183,7 +186,7 @@ Max looked down at a cartoon of a carefree young girl and words danced across th
 
 “Runa did…” Max responded weakly, “It’s just…”
 
-“Alright, pizza’s out!” John’s voice boomed from the kitchen. Barbara looked at Max  with pleading eyes, as his gaze fled to the kitchen.
+“All right, pizza’s out!” John’s voice boomed from the kitchen. Barbara looked at Max  with pleading eyes, as his gaze fled to the kitchen.
 
 “We’ll talk about this in a bit,” She reassured before towing him into the kitchen.
 
@@ -269,6 +272,7 @@ Max gripped the side of the door frame and lowered himself to her ear.
 
 <div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
 
+
 The sun dipped below the horizon; the gold-red rays bounced on scattered clouds. The cold air flowed across Max, protecting him from the sweltering heat. His alert eyes stared down the highway and a pump-action shotgun laid on the seat beside him. 
 
 He glanced at the weapon. Its shadows deepened in his mind, seeming to split with orange light. The rush of air across the cabin echoed that damned wail. A car honked and He shuddered. His gaze shifted to the road, drowning the bifurcated horror. In the distance, the large gray-beige corporate building snaked out of the myriad of featureless structures. His knuckles whitened as he stepped down on the accelerator.
@@ -335,7 +339,10 @@ Runa gazed into the blackened street, listening to the shrieking alarms. Her eye
 
 “I don’t care!” Max shouted.
 
+
+
 <div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
 
 The red and white of tail lights flickered as he passed each car. Orange lamps glowed against the black sky. The grip of rubber pulled at Max’s palms and sweat beaded down his brow. Each labored breath failed to steady his quickened pulse. He rounded the corner, bringing an ink-stained blue house into view. Two cars were parked in the driveway. 
 
@@ -411,7 +418,9 @@ She stumbled drunkenly toward Max, her blue eyes gaining clarity as she broke in
 
 
 
+
 <div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
 
 
 "Now do you see why my gun is important?" Runa asked as she pointed a fry at Max. The morning sun highlighted the bags under her eyes. The din of idle chatter drowned her words. The glint of the cars hoods shined on the red pleather seats. Heat radiated from the sticky material, drenched in subtle sweat. The savory smell of cooked eggs wafted into his anosmic nose.
@@ -445,6 +454,7 @@ Max probed the broken yolk. Barely lifting his gaze to see Runa’s dead eyes an
 “Do you think I’ll ever see mine again?” He asked. The din of the restaurant quieted as her blue orbs pierced his eyes.
 
 "No."
+
 
 
 <div class="button-spacing"></div>
