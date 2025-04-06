@@ -154,6 +154,7 @@ function handleRead() {
 		<!-- <img class="object-contain" src="/images/books/valkyriextruck/ValkyrieLogo3.webp" /> -->
 		<video class="mix-blend-normal bg-transparent" autoplay muted >
 			    <source src="/images/books/valkyriextruck/valkyrielogo.webm" type="video/webm">
+			    <source src="/images/books/valkyriextruck/valkyrielogo.mp4" type="video/mp4">
 				    Your browser does not support the video tag.
 		</video>
 
