@@ -28,6 +28,7 @@ title: "Girl hits boy"
 
 
 
+
 Muffled red light poured into Max’s eyes. He rolled, catching his bandage on a stitch. With a yelp, he bolted upright. His eyes opened to sterile hospital walls. Numbers and lines ticked across the electronics lining his bed. He shifted, turning to the window. The noon sun radiated across his tired face. Green trees gently swayed across the car littered parking lot. A squeak drew his attention to the click of a closing door and a middle-aged man in a blue smock pushed a cart into the room.
 
 "Look who's finally awake!" exclaimed the nurse as he approached the bed. “Do you remember anything that happened?” The scent of fresh cut grass lingered in his nose. The roll of plastic on the rock still echoed in his ears. The white wall mirrored the truck's headlights, drawing his eyes to the hanging picture. 
@@ -92,7 +93,7 @@ The door flew open. A balding man in a white coat stepped through, his face draw
 
 “I just need to make sure you’re okay,” the doctor reassured, shaking his head. His hands swung impatiently at his side. The wrinkles of stress and age creased his brow. His hazel eyes and hard stare accentuated his professional demeanor.  He reached out a hand and pointed to the mattress’s edge. Cautiously Max swung his legs over.
 
-“It’s strange times,” the doctor started and pulled up a seat. Taking out a small triangular hammer, he continued, “but the news says it’s fine and the hospital is rated for minor earthquakes.” He tapped the front of Max’s knee, who kicked and flinched at the strange pressure.
+“It’s strange, been happening a lot recently,” the doctor started and pulled up a seat. Taking out a small triangular hammer, he continued, “but the news says it’s fine and the hospital is rated for minor earthquakes.” He tapped the front of Max’s knee, who kicked and flinched at the strange pressure.
 
 ”I’m Dr. Beck. I’ve been taking care of you for the past two weeks,” he explained and set the hammer down on the cart. The unhooked phone droned a dial tone on the floor. He grabbed it and called for a clean up, before turning back to the bed. His hand motioned toward the bandage, “Seems like you’re recovering fine but,— I wanted to talk to you about this perforation.” 
 
@@ -101,7 +102,6 @@ The door flew open. A balding man in a white coat stepped through, his face draw
 “Yes, it won’t stop bleeding. Do you know what hit you?” The doctor questioned, pulling a small notepad and pen from his breast pocket. Max relaxed slightly as his eyes drooped to the sheets. 
 
 “I… think I was hit by a truck,”  Max stuttered, gripping the sheets. 
-
 
 “I know that; the driver got permission to visit you from your family,” Dr. Beck said and pointed toward the bandage. “I want to know what punctured your shoulder.” 
 
@@ -135,7 +135,7 @@ Max gazed into his soft trembling hands. Each twitch and spasm of muscle toying 
 
 “Do my parents know?” He stuttered.
 
-“Of course!” Dr. Beck exclaimed,  “Your father called every hospital east of Richmond, or so he said. Your sister insisted on donating blood; but she's too young, especially considering the amount you needed.” 
+“I told you,” Dr. Beck said,  “Your father called every hospital east of Richmond, or so he said. Your sister insisted on donating blood; but she's too young, especially considering the amount you needed.” 
 
 The words carried his sister’s whine.  Needles shot through his spine, as the weight of his father’s gaze descended on him. He layed back in the bed as he pushed the thoughts from his mind.
 
@@ -146,8 +146,8 @@ The doctor stared in disbelief. He chuckled, before returning his pen and paper 
 "Sorry kid, I just think you have bigger fish to fry,” he said, before relaxing back into the seat. His arms folded and face softened as he continued, “Other than that one hiccup, you’re in great shape, even those fractures healed surprisingly quick, but whatever is going on with that injury is something we need to know about in the medical community in case it…” The room shook again, cutting his words short. The doctor bolted from his seat and dragged away the medical cart. A practiced calm drew over his face. “Aftershock. We should be good in a moment.”
 
 
-
 <div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
 
 Glass rattled Runa’s resting head. The truck bounced in harmony with the cars outside. Their horns wailed shrilly against an earthly moan. Street lamps flailed against the blue sky. She rubbed her eyes, looking to the hospital. It jiggled a chaotic step that defied its concrete form. The rumble faded and with it the concert subsided, leaving only the wild shriek of car alarms.
 
@@ -165,7 +165,7 @@ As she approached the door, she found her legs unsteady. The ground beneath her 
 
 "You there, Runa!" A man’s voice called, stopping her movement. She turned, her eyes landing on a red haired nurse in a blue smock. 
 
-"Max is awake, but he said he doesn't know you,” the nurse said. He moved into Runa’s path, extending an arm toward her. “I'm sorry but I can't let you go back there unless he gives the go-ahead."
+"Max is awake, but he doesn’t want you in there,” the nurse said. He moved into Runa’s path, extending an arm toward her. “I can’t let you back in."
 
 She attempted to move around the nurse, continuing towards Max's room.
 
@@ -179,6 +179,7 @@ Runa, with swan-like grace, pivoted on her good foot, grabbed the side of the nu
 	
 
 	
+
 The quiet room filled with unspoken words. Max’s thoughts drifted through the jumbled threads. He glanced at the sun through the window, barely hearing the shrill cry of the flashing cars below.
 
 "Runa..." He tested the foreign name. His gaze flowed to the center of the room. As if a spell had been cast, she slid past the door. He stared, dumbfounded, as her celeste eyes snared him.
