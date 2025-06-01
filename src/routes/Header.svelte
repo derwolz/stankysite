@@ -37,6 +37,12 @@
             </li>
         </ul>
         <ul>
+            <li class="text-xl min-w-12">
+                <a href="https://patreon.com/KingStanky" rel="noopener noreferrer" target="_blank">
+                    <img src="images/PATREON.svg" width="25px" alt="Patreon"/>
+                </a>
+            </li>
+
             <li class="text-xl min-w-24">
                 <a href="https://x.com/TheKingOfStank" rel="noopener noreferrer" target="_blank">
                     <span class="text-2xl">𝕏</span>
