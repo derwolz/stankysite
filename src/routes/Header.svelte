@@ -39,7 +39,7 @@
         <ul>
             <li class="text-xl min-w-12">
                 <a href="https://patreon.com/KingStanky" rel="noopener noreferrer" target="_blank">
-                    <img src="images/PATREON.svg" width="25px" alt="Patreon"/>
+                    <img src="/images/PATREON.svg" width="25px" alt="Patreon"/>
                 </a>
             </li>
 

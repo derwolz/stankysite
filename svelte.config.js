@@ -11,7 +11,11 @@ const config = {
         adapter: adapter(),
         alias: {  // Added colon after alias
             '$lib': './src/lib'  // Fixed syntax
+        },
+        files: {
+            assets: 'static'
         }
+
     },
     preprocess: [
         vitePreprocess(), // Added vitePreprocess
