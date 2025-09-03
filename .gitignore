@@ -12,6 +12,7 @@ package-lock.json
 .DS_Store
 Thumbs.db
 valkyriextruck.db
+*.db
 
 # Env
 .env
@@ -22,3 +23,4 @@ valkyriextruck.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+vite.config.js
