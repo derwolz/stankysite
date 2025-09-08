@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'stankysite',
+      name: 'valkyrie',
       script: 'build/index.js', // SvelteKit with adapter-node creates this
       instances: 1, // Changed from 'max' because SQLite doesn't work well with cluster mode
       exec_mode: 'fork', // Changed from 'cluster' because of SQLite
@@ -34,7 +34,7 @@ module.exports = {
       repo: 'git@github.com:derwolz/stankysite.git',
       path: '/var/www/stankysite',
       'pre-deploy-local': '',
-      'post-deploy': 'npm install && npm run build && pm2 reload ecosystem.config.js --env production',
+    'post-deploy': 'npm install && npm run build && pm2 reload ecosystem.config.cjs --env production', 
       'pre-setup': ''
     }
   }
