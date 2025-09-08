@@ -13,5 +13,19 @@ export default defineConfig({
 	},
 	assetsInclude:['**/*.json'],
 	optimizeDeps: {
+	},
+	build: {
+		rollupOptions: {
+			external: [],
+			output: {
+				// Copy JSON files to the build
+				assetFileNames: (assetInfo) => {
+					if (assetInfo.name?.endsWith('.json')) {
+						return 'assets/[name][extname]';
+					}
+					return 'assets/[name]-[hash][extname]';
+				}
+			}
+		}
 	}
 });
