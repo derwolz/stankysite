@@ -1,0 +1,765 @@
+
+---
+title: "Abode"
+---
+
+
+
+<div class="image-container">
+<picture class="chapter-head">
+    <source
+        media="(min-width:800px)"
+        srcset= "/images/books/valkyriextruck/chapters/chapter1/heading.webp"
+        />
+    <source
+        media="(max-width:799px)"
+        srcset="/images/books/valkyriextruck/chapters/chapter1/heading-s.webp"
+        />
+        <img
+           src="/images/books/valkyriextruck/chapters/chapter1/heading.webp" 
+           alt="delivery truck"
+           decoding="auto"
+           />
+        </picture>
+</div>
+<div class="chapter-divider"></div>
+
+# Chapter 7: Abode
+
+"You stink," Max muttered, pinching his nose with a hand. He threw an empty bandage box at Runa's head. "Why don't you go jump in the river?"
+
+"The river’s disgusting," she said as she casually dodged the container. 
+
+Max rolled his eyes, before popping open the passenger door. A refreshing scent of sour smog wafted into the vehicle. His gaze drifted past the desolate street and empty buildings. A slight breeze passed overhead. The birds held their chirping. No distant engines disturbed the silence. He turned, spying Runa sniffing her pit and gagged, before scurrying into the back of the truck. A small denim jacket hung against the wall. Sweat drenched clothes lay strewn across the shelving, covering the disparate boxes and liquid-filled glass jars. Discarded trash littered the metal floor. Runa exhaled forcefully behind him as he dug through a box filled with sponge cakes.
+
+"Shouldn't we go to the shelter?" Max asked, snatching a packaged item from the box.
+
+"It's too dangerous," she responded as her gaze drifted to the back. "Desperate, chaotic situations only lead people to be desperate and chaotic. We have to assume the worst."
+
+"I just want a shower," Max grimaced and ripped the plastic packet. A burst of sweet frosting temporarily alleviated the stench of sweat from his nose. “Pretty sure you could take care of anything.”
+
+"There are thousands of people there. One mugging while I’m not looking…" Runa said, shaking her head. Her eyes darted to the open box of sweets at his feet and made a passing gesture. “And what if a Fetter is there? I can’t kill it, do you think you can?”
+
+"What about if we go back to the Crafter?" he probed. He stuffed his nose in the package and flicked the box to her with his foot. 
+
+Sponge cakes flew out of the container, scattering across the metal floor. Her eyes darted between the sweets and Max, before snatching one and turning forward in her seat.
+
+"Impossible. He said he was returning home," Runa replied and waved his comment away.
+
+“Home? Wasn’t that his house?” he asked. She tossed a hand up before popping open a package. His eyes darted to the ground as an idea crossed his mind. "What if we just knock on a random door?"
+
+"What do you mean?" she asked, peering around her seat.
+
+He pulled a set of stationery from his old pants, and wandered to the front.
+
+“We need a place to stay. I’m sure somebody out here can trade room for labor," Max explained as he crawled into his seat.
+
+"Oh," she stated. Her eyes swept to the page as he wrote, “They would need to be out of the way. I'm sure most people have been asked already," she added.
+
+“Yeah, I got food and a room listed," he confirmed. He tapped the pad rhythmically as his eyes drifted back to the lifeless road.
+
+“It’s weird,” Max mused to himself. “Why are the streets empty?”
+
+“I don’t know,” Runa admitted, “It doesn’t matter. Focus on what we can control,”
+
+“When are the roads supposed to be fixed?" he asked.
+
+“Two weeks," she quietly groaned.
+
+“At least it's not time-sensitive," he ventured. Her trigger finger twitched in response. “Anything else?" he continued. 
+
+“No,” Runa answered. Her eyes darted outside, “Go ahead.”
+
+ His pen moved across the page, writing and scratching as he tested words and phrases. He lifted the tool, rapping his teeth a few times before tearing the paper from the pad. Slowly an outline formed about a simple story. Then he listed out the single syllabic words: true, knew, share, care, food.
+
+"What rhymes with food?" he asked, without lifting his sight from the page. The black and white of written paper engulfed his green eyes.
+
+"Why are you asking me? You're the weaver," Runa responded flatly. She turned to look at his written page.
+
+"Rude? Oh, crude. Thanks," he remarked and penned the word dramatically. He tore the page off and slapped it on his leg. His gaze darted from his notes to the clean paper as he wrote:
+
+<div class="poem">
+
+In house by river that they knew.
+
+Finds man help, room, and stew.
+
+In their labor would he share.
+
+So in their shelter found he care.
+
+Abundant were they in their food.
+
+In their assets were they crude?
+
+</div>
+
+
+"I don't know, how does this look?" he asked, holding up the pad to Runa. Her finger darted to the question mark.
+
+"What's that?" she asked.
+
+“I didn’t want to be too much of a burden. I thought this would help,” Max explained, as he drew the pad back to himself.
+
+"Find a different word," she dismissed, turning her gaze back to the empty road.
+
+Max sighed and rapped the side of his head with his pen, before starting again.
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+
+In a quaint, quiet neighborhood, a small home lay nestled under a willow. Weeds branched upwards in the yellowed-yard, split by a concrete path. The house’s white face and brown trim painted it cottage-like on a rock foundation. Max pointed his finger at the riverside building.
+
+“It’s this one. I’m pretty sure of it," He spoke with wavering confidence.
+
+“Ok, your call,” Runa acknowledged and shifted the truck into park.
+
+The dirty air felt dry, despite the scent of musky water that laced it. Max hesitantly strode down the path. Runa followed in stride, passing him, before knocking loudly.
+
+Gray hair poked out from behind the door. A plain flower print dress drifted past the entrance.
+
+“Who are you?” an old woman’s voice called from inside. Max peered around Runa, seeing a bobbing head of gray and white hair. Glasses reflected the noon sun, forcing his eyes shut.
+
+“We’re refugees,” Runa paused, “We were hoping to trade help for room and board,” she stated. The gap in the doorway narrowed.
+
+“Where are you from?” The woman’s voice continued, “Don’t you have family in the area?” 
+
+A knife-like force plunged into Max’s chest. Water blurred his vision. He looked away, blinking to clear his vision. The pain drilled further into him. His hand left his pocket.
+
+“Oh…. You poor thing," The woman said. Max looked up to see an old woman’s milky green eyes, magnified by a thick set of glasses. She slid the door open, before stopping and pinching her nose. “Oh you stink," she put a hand up to Runa’s chest, holding her outside, before beckoning Max in. “One at a time, until the other has bathed.” 
+
+Max stepped through the portal.
+
+
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+
+A refreshing cold clung to the air. His skin smoothly stretched with his limbs. No trace of sweat crust remained. A dusty tome scent mixed with a trace of carrot. Max casually scanned the idyllic room. Flower prints adorned the walls, broken up by aged color pictures of children and adults. Half-finished knitting projects covered every shelf, save for the table in the center, layered thickly in unopened letters. He bent down, exposing his back to the warm air and lifted an envelope from the pile. Every seam of his too-small shirt scratched against his skin, distracting him as he read the name of a credit company in its window. He tossed the letter back into the stack.
+
+“I'm sorry about the clothes dear, but at least they'll be used," The old woman crooned, as she rocked back and forth in her chair. “So tell me, what's your name?”
+
+“Max Christiansen” He replied as his gaze settled on the knitting woman.
+
+“Christiansen, huh? Son of Christian. Swedish," she pondered. Her eyes darted downward as she worked her needles. “My grandfather came over from Sweden. He found his wife here in the valley. A small, English lass,” she paused to chuckle, “Not too much like myself,” she said, subtly kicking her stubby legs. Her gaze drifted up from her work, “So where are you from?”
+
+“Norfolk, Virginia," he said as he sat on the couch.
+
+“Ah Virginia, I have a grandson that lives there," she said. Her face drooped and the rocking stopped. The sound of a shower lingered in the air. She closed her eyes and rested her head against her chair. The water stopped, leaving a silent ring in his ears.
+
+“So, ma’am, what's your name?” he asked.
+
+“You can call me Granny Maynes, dear," she said, opening her eyes. The rhythmic rocking of her chair whispered underneath her. “What are you doing out here so far from home?”
+
+A door creaked from the hallway as Runa slid just out of view.
+
+“Clothes are on the bed, down the hall to the left," Granny Maynes called, cracking her voice. “Sorry, go ahead," she murmured, returning to her knitting.
+
+“My family died in an…” Max started, He subtly gripped his injured shoulder. His stomach twisted, cutting off his thoughts. A bead of frigid water crawled down his spine. “Accident, so Runa is taking me to live with hers," he finished, forcing himself through his words, then closed his eyes. He took steady, even breaths as each of his muscles relaxed.
+
+“Runa? Odd name, she must come from eccentrics," she muttered. Her milky eyes stayed fixed on the task in front of her. “What's her maiden name” 
+
+“I don’t know, she never told me," he answered, leaning back in his seat with a shrug.
+
+“I thought you might have been married. Well, you’ll need to sleep out here during your stay then," she said and motioned to the sofa. “About the work. These letters…”
+
+Runa stepped into the room, wearing an ill-fitting, too short prairie dress. She hovered behind granny, and quickly assessed the room.
+
+“It’s too small,” she stated.
+
+“I'm sorry it's not big enough, but it's what we have," Granny apologized as her fingers worked the needles. “I can let out the seam so they fit a little better.”
+
+“I'll wear my clothes once they’re clean," Runa stated. Her stoic lips gave only a hint of her displeasure.
+
+“Runa, dear, come have a seat while dinner’s cooking. Let's get to know each other," Granny offered and pointed next to Max. Runa slid across the room, taking a seat on the far side of the couch. 
+
+“Runa, this is Granny Mayes. Granny Mayes, Runa,” Max introduced, gesturing between them.
+
+“We were just sharing names and Max here said he didn't know yours,” Granny probed.
+
+“I am Runa," she stated. Max sighed and Granny raised her brow.
+
+“What's your surname, Runa?” Granny asked, lifting her eyes from her work.
+
+“I don't know what that means,” Runa said. Her head darted to each of the windows, lingering for a moment.
+
+“Your last name, dear…” Granny continued.
+
+“I am Runa,” she reiterated, leaning her head on a hand as she relaxed in her seat.
+
+The rocking chair stopped. Granny paused her knitting for a moment. She looked at Max, who only shrugged in response.
+
+“Everyone has a last name,”
+
+“Why?” Runa interjected with her quiet, unaffected voice. She fixed her deadened stare on the old woman.
+
+“What about your family? Surely you didn't fall from the stars," Granny Mayes probed. She leaned forward as her confusion grew.
+
+“I have parents and siblings,” Runa droned. 
+
+“Do they have surnames?” Granny stammered and set down her knitting project.
+
+“No," Runa stated. 
+
+Granny Mayes stood from her chair and wobbled up to Runa. She stared into the ice laden eyes, with a glare just as serious. Phantom spiders crawled up Max’s spine as the silent battle raged. Granny’s face softened, and she returned to her seat.
+
+“No wonder your name is so unique; it would be impossible to tell anyone apart otherwise," she chided and returned to her craft. “So where are you from, Runa?”
+
+Max’s eyes wheeled from the elderly woman, landing on his foreign captor. His head shrunk down into his shoulders as he listened in anticipation.
+
+“Home," Runa stated.
+
+Granny’s needles stopped their clicking and Max sighed.
+
+“Yes, that’s where most people are from," Granny explained. “Where is home?” 
+
+Runa’s eyes darted to Max, showing the barest hint of annoyance, then slowly drifted to the mound of letters, sifting through unseen information. They swept upwards and fixed to Granny.
+
+“I don’t know,” Runa flatly declared.
+
+“Do you need a map?” Granny started.
+
+“No,” Runa responded.
+
+“You know, maybe we should focus on something else,” Max interjected. He extended his hands toward the two of them. “Granny, I think you were going to tell me something about these letters," he said and gestured towards the table.
+
+“Yes, the letters," she said. Her gaze drifted to the postmarked pile, “My eyesight isn't what it used to be, and it makes it difficult to read. While you’re here, can you help me read through my mail?” 
+
+Max said a silent prayer as he looked at the veritable mountain of paperwork in front of him.
+
+“Yes," he sighed. “How do you want them sorted?”
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+
+To the tick of a clock, the soft tear and ruffle of paper broke the silence. Granny worked soundlessly in the kitchen. Runa laid splayed on the couch, staring into the ceiling. Max sat on the opposite side with a large trash can beside him. Rhythmically, he lifted paper from the table, opened it before tossing it into the trash. 
+
+“Y’know you could help?” Max grumbled as he tossed a letter in the bin. He lifted another from the table, glaring at another ‘handwritten’ credit card offer.
+
+“This is your own fault, you wove the thread. Be thankful I stopped you from that question mark," Runa explained. She lifted her hand above her head, studying it.
+
+“Next time I’ll make sure to rope you in too," Max muttered and shot a daggered glance.
+
+“Okay,” she intoned and moved to the rear sliding glass door. “Come get me when it’s time for dinner," she exited the room with a soft thump.
+
+“You have a cold one there,” Granny whispered, as she set the counter space behind him. “Is everything okay?”
+
+“I have wondered that every day since I met her,” Max replied despondently. 
+
+“How did you meet her anyway?” Granny asked. 
+
+“She ran me over with that truck," Max blurted, and Granny's jaw visibly dropped. “Then her truck got hit by another truck, then her gun went off, doing this” he continued and pointed at the bandage on his shoulder. “It was… a little weird.” his voice trailed off as he shied away from her.
+
+“Are you okay?” she probed, before sitting in her rocking chair. Her eyes caught the sight of Runa moving strangely in the backyard, then blinked, returning to Max.
+
+“Apparently, I spent two weeks in the hospital and then was released," he lied and tossed another letter in the trash. “So it must have been bad, but I don't really remember any of it.” He tore another open. “The nurse said that Runa was there every day watching over me. Even more so than my family.”
+
+Granny’s gaze drifted back to the blonde girl in the backyard. Runa’s lilting movement carried a strange intensity with every graceful step. Her arms flowed smoothly through the air, gently holding her invisible partner.
+
+“There must be a good person under that exterior, then," Granny noted. 
+
+“I honestly don’t know," he said, exasperated, before tossing another letter in the trash.
+
+“Well you better grab Runa, it's time to eat," she said and wobbled upward and into the kitchen.
+
+His weary hands dropped the letter, and he walked into the backyard. The mountain’s shadow sliced a blue divide against the red and purple sky. The bushes and trees painted a verdant green against the natural browns of the fence and shed. Runa danced in the middle of the vibrant display. Her unbound, golden hair flailed freely in the evening shade. She stopped, straightening her back and turning to him.
+
+“I take it dinner’s finished?” she asked, cocking her head slightly. Her shoulders rose with every breath, and her hand picked unwittingly at the tight seams.
+
+“Uh… yeah," he stammered, “Mrs. Mayes is waiting.”
+
+“Ok,” Runa responded. She brushed off her skirt before following him back inside. 
+
+“Completely impractical," she complained as she took a seat. Granny looked up from serving a bowl. Her eyes widened as she saw Runa’s finger press through a seam. “It falls apart with barely any movement.”
+
+“It’s too small,” Granny explained, “You shouldn’t move too much," she slid a stew-filled bowl in front of Runa. Runa snatched it and tore into the meal.
+
+“So, Max, what are your plans?” Granny asked, as she dipped her wobbling spoon into the broth. 
+
+“What do you mean?" he responded and stabbed a potato with his fork.
+
+“What do you want to do with your life?” she probed, as the wandering utensil made it to her mouth.
+
+“I don't know. That's kinda a big question," he replied. His gaze focused on the soup of carrot, beef, and potato in front of him. The scent of home-cooked food and sultry spices flowed upward. His fingers trembled as memories invaded his thoughts.
+
+“Job?” she asked and glared at her wavering spoon, willing it to obey her command as she ate.
+
+“I hadn't thought about it," he admitted.
+
+“Kids?” Granny asked, daring a glance at Runa.
+
+“I'm not sure if I’ll have ‘em,” Max said, as he bitterly forced down the delicious broth.
+
+“If you don’t make a decision, life will make it for you,” Granny stated matter-of-factly and focused her attention on Runa.
+
+“What about you? Job?” she asked cautiously. 
+
+Runa glanced up from her meal before grabbing another bowl.
+
+“I run a small delivery company," Runa said.
+
+Max's face exploded, spewing a slurry of stew over his bowl. He struggled and coughed, slamming his chest. A mixture of disgust and worry flashed across Granny’s face. She lifted a hand toward Max. He raised his own to stop her as he quieted his coughing.
+
+“Try swallowing,” Granny urged, then turned to Runa, “Kids?”
+
+“No," her fingers curled with her emotionless response. 
+
+“Even though they don’t visit me much anymore, I wouldn't give them up for anything," Granny crooned. She set down her utensils and gazed at the plethora of pictures hanging from the wall. Her eyes grew wet as she lingered. She shifted back to her meal before wiping at her face. “I miss them…” She muttered, staring at the bowl, and stifled her soft sobs with her napkin. “I’m sorry, excuse me," she apologized and walked out of the room. 
+
+Silence shadowed the room. The two picked at their food, as Runa’s statement lingered in the air.
+
+“Understatement of the century” He sniped and finished the last of his meat. He leaned backward, savoring its flavor. “Like saying a weapons dealer is running a sales company.”
+
+“Explain it then," she commanded.
+
+Max shot an unamused glare at her. He watched as she lifted her fork with unnatural grace. A hand pulled back the curtain of golden hair, resting her dainty finger just behind her attached earlobe. The fork sailed into her mouth. Her chewing puffed her cheeks just past her high cheekbones. Her face was devoid of any satisfaction with the broth.
+
+“What are you?" he asked. 
+
+“I’m Runa," she said and continued to eat unabated.
+
+“I know that, I mean I’m human, so what are you?” Max probed, as he pushed the bowl to the side. He laid his hands on the table and interlocked his fingers.
+
+She stopped, setting down her fork. Her eyes focused on the bowl, glazing. Her body swayed slightly, as she rested her chin on one hand. Then sat up and slid her gaze to Max.
+
+“I don't know, what is the sun, what is man?” she muttered.
+
+“I'm not looking for a philosophical thesis. I just want to know what you are," he sighed
+
+“I don’t know," she replied. 
+
+“That's a cop-out," he responded and waved a shooing hand toward her.
+
+“I came into my world removed from the crystal of my birth as I am,” Runa explained. Her ice laden eyes carried an edge of seriousness. “I have no recollection of existence before then.”
+
+Max’s gaze fell to his empty bowl, before turning to Granny’s. Steam wafted upward from her unfinished food and his eyes landed on her empty seat. He turned, hearing the click of metal and plastic.
+
+“But your parents?” Max asked as his brow raised. Runa stopped her meal and pointed the empty fork in the air.
+
+“Father and Mother mentored me,” she stated, waving her utensil in a circle, “They mentored all of us.”
+
+He watched the fork twirl in the air. An endless, circular movement that brought to his mind images of Sally’s playful games.
+
+“So the comment about not wanting children?” Max continued.
+
+“None of us ever have,” Runa stated.
+
+
+
+
+
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+"Traffic through Point of the Mountain is closed. Restricted to local traffic only. Traffic through I-80 closed east of Lake Point..." The automated broadcast called over the small speaker. Runa stood next to the front door, staring out the window to the north. Prismatic clouds of morning light drifted against the bluing sky.
+
+“I’ve had enough” Max grumbled and clicked off the radio. His soft footsteps plodded on the shaggy carpet. He sat in the squeaking couch and snatched a letter from the pile, pointing it lackadaisically at Runa, “You want a new credit card?” he jested, before flicking it into the trash.
+
+“We have to go,” Runa muttered.
+
+“Go? Go where? It's not like we can leave with all the road closures," he said and snatched a handwritten letter.
+
+“I should have driven straight to Boise," she softly growled.
+
+“Good morning, you two. Nice to see you awake so early," Granny Mayes greeted and meandered down the hall. 
+
+“Good morning, Granny,” Max said. He tore open the handwritten letter and rolled his eyes, “You sure you don't need to update your car’s warranty?" he said, and threw it in the trash.
+
+“Heavens no, I would cause an accident," Granny answered as she waddled past to the kitchen.
+
+“Your loss, I swear it's like the pile restarted," Max chided. He grabbed another obvious credit card offer and tossed it.
+
+“I’m sorry dear. I know it’s a lot," The old woman apologized.
+
+“Don't say sorry until after the mail drowns us," Max chuckled as Granny’s gentle laugh floated from behind him.
+
+“Have you two eaten?” she called with the thumping of closing cupboards.
+
+“No, we didn't want to start digging for food until you woke up,” Max responded. His gaze drifted to Runa. She leaned against the window’s frame, almost forlorn, were it not for her stoic face.
+
+“Oh, never mind me, go ahead and make yourselves at home,” Granny replied.
+
+“Runa,” Max called, “Runa!” He yelled and threw a letter. It smacked her shoulder, bouncing off harmlessly.
+
+“Yes?” she acknowledged, watching as the sun scattered the fading reds.
+
+“What do you want for breakfast?” Max asked and motioned to the kitchen. 
+
+“Ice cream,” she stated.
+
+“You see what I have to deal with every day?” Max chuckled, glancing over his shoulder at Granny.
+
+“That’s fine, I’m sure I can find some," Granny offered and ambled out the side door.
+
+His gaze drifted to Runa with a slight smile plastered across his face. She stared with her cold complexion, watching the dawn fade. The day was now in full sway. 
+
+“Max,” she stated, sweeping her eyes away from the window. “I need a job.” He motioned to the sea of paper in front of him. “No, that’s your job. I need my own," she reiterated. 
+
+“Well, I’m not entirely sure what you want then," he grumbled, shifting his attention back to his labor, “why don’t you ask Mrs. Mayes?” 
+
+Runa righted herself from the wall and approached the garage door. Granny stepped through the doorway, carrying a small blue cylinder in her hand.
+
+“Is there something I can do? I need to keep my hands busy," she said, crossing her arms. 
+
+Granny darted a look at the back of Max’s head before handing Runa a mostly empty pint of ice cream.
+
+“I suppose you could start by repairing that dress you borrowed,” Granny said. She walked into the kitchen and pulled her own food from the cupboards.
+
+“I don’t know how to do that,” Runa intoned.
+
+“That’s okay,” Granny moved her bowl to the counter. “I can show you how.”
+
+
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+
+“I don’t get it," Runa admitted. She lifted the piece, assessing the haphazardly sewn sleeve on the bodice. Granny watched in utter horror.
+
+“Just start by rolling the seams together," Granny stammered. She touched the tops of Runa’s hands, attempting to guide them into the right place. Runa pressed the dress again into the machine, sewing the bodice shut despite Granny’s protests.
+
+“I need to do something else,” Runa stated and stood from the desk. She glided past Granny, smoothly entering the living space. Max bolted over the pile of letters, protecting them from Runa’s predatory gaze.
+
+“Max. Let me help you with the letters," she demanded.
+
+“Not a chance," he growled back at her.
+
+“You will never finish on your own," she placed her hands on her hips, staring blankly.
+
+“At least, she’ll have some letters left," Max muttered and shooed the woman. Runa snagged his hand out of the air.
+
+“Fine then, come with me," she ordered. Fear crawled down his spine.
+
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+
+Max struggled against a pythonic force that bound his arm. The overwhelming might pulled against him, threatening to separate sinew from bone and popping his joints. In a panic, he tapped Runa’s leg and the titanic grip relaxed. He rolled away as his shoulder and arms burned against his skin.
+
+“Again,” Runa commanded. In a smooth motion, she rolled back to her shoulders before springing to her feet. She dashed forward, pinning him in a chokehold, before he could react. Max found himself once again fighting for his life as she tackled him.
+
+“Wait…” He wheezed and tapped her arm. The hold released and he fought to regain his breath. “How is this helping?" he gasped.
+
+“You are learning how to fight," she stated. Her eyes darted to him as she laid in the grass. Her fingers curled and twisted in silent anticipation.
+
+“No, I’m learning how to get wailed on," he griped. Lifting his shirt, he checked his bandaged wound as red seeped through the pristine cover. “Aren’t there techniques or something you can teach?” Max said, replacing the damaged shirt.
+
+She sighed and rolled her head to the blue north. Her hand fanned her with the collar of her shirt. She glanced down and her eyebrows subtly raised.
+
+“I need to borrow a set of your clothes," she said, turning back to Max as he stood. His gaze travelled upward, sweeping past her perfectly tailored jeans, and white shirt, before landing on her piercing eyes.
+
+“I’m sorry, what?” Max replied.
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+
+Frigid sweat dripped down his brow. The summer heat bore on his hunched back. His legs nervously coiled beneath him. His bare feet slid along the dry grass, inching toward the baggily clothed woman in front of him.
+
+She burst forward, slamming into his chest. Air pressed from his lungs, driving him back a step. She stepped backward, and spun, flicking a kick toward his head. Reflexively, his hand snapped upward, and caught her kick. Her leg tugged against his grip. His eyes darted to her writhing foot. Her pull ceased, as the back of her foot sailed into view, and smashed into his brow. Pain exploded across his face, he let go, and stumbled downward.
+
+Her leg landed just within view. Fiery rage burned through his veins. He grabbed her by the leg, dragging her toward himself, before slamming his elbow down into her gut. Runa groaned. Her eyes bulged, as spittle sprayed from her mouth. Max raised his arm to strike. Her gaze darted downward. She kicked with her untrapped leg against the inside of his elbow. His body tumbled toward the ground. Her legs, wrapped around his torso, controlling his descent and rolling him onto his back. She bolted upright, wrapping her arms around his and flung her weight backwards, prying his hand away from her leg. She pressed down across his neck and chest, as her body straightened. Pain rocketed across his arm. Fear replaced his rage as he felt his muscles and bones reach the limit of their stretch. He tapped her leg. 
+
+“Enough! Enough, you win!” he shouted.
+
+Her grip mechanically released. She tumbled away from him in a ball of clothes, before standing, massaging her stomach.
+
+“Better than I thought," she stated and extended her hand.
+
+He grabbed it and tugged. Runa came down, face-planting into the dirt beside him. She rolled away, pinching her bleeding nose. Max’s head wheeled toward her and brow bolted upwards.
+
+“Are you…”
+
+She shot out a finger toward him, silencing his comment. She gripped her nose, before popping the cartilage. With a deep breath, she sat up and sprayed blood onto the ground through a nostril.
+
+Max stood, staring at the dark splotch in the dirt. His gaze swept up to her face as she wiped her nose, smearing crimson across the borrowed shirt. He leaned downward, and offered a hand.
+
+“What happened?” he asked.
+
+“I’m not wearing my clothes," she nasally droned.
+
+“No, you are wearing mine. “ He said. His eyes darted away with a blush. “Are you going to explain that anyway? Or are you just going to keep being cryptic?” 
+
+“Yes, follow," she said nasally. Robotically, she stood and glided into the house, ignoring the staring Granny as she entered her room. “Here. Look at the stitching on the inside," she continued and tossed a white shirt to Max.
+
+“It looks like a seam," he replied, peering into the fabric.
+
+“You better not be trying to use that sewing machine again!” Granny shouted from the living room.
+
+	“Hold it closer," Runa ordered, with a hint of a frown. 
+
+Max inspected it, finding a strange curling to the stitch. It carried his eyes along their fractal path. His sight was drawn in by its design.
+
+“Max," she called, snapping his attention from the cloth.
+
+“Is that writing in the stitching?" he asked, blinking and folding the shirt back.
+
+“Yep," she confirmed and sat, crossing her baggy-legs on the bed. “Remember the Crafter?” She motioned to the clothes scattered across the bed. “All of my clothing was made by them.”
+
+“So what does it say?" he asked, tossing the shirt back.
+
+Runa snatched the cloth out of the air. Ceremoniously, she placed the shirt on the bed in front of her and carefully folded it in exacting lines. Lifting it, she spun and set it near the edge. Soundless words caressed her lips before she returned to Max.
+
+“I can’t read anything that small,” she explained.
+
+“So this writing makes you stronger or something?” he probed. 
+
+“It makes me more powerful," she corrected. 
+
+“Those are synonyms," he responded with an eye roll.
+
+Runa sighed, collapsing backward onto the bed. Her legs rhythmically bounced against it. Her blue eyes darted in unapparent aggravation as a slight wrinkle touched her rounded nose.
+
+“You pulled me down and the training hurt less,” she stated.
+
+“Yeah, that is because you are less strong. Can’t you explain it?” he groaned.
+
+“You are too big to wear them, so it’s impossible to show you fully," she sighed. “It makes it easier to fight.”
+
+“Do you think they’re poems?” he asked, as his eyes moved to the pristinely folded shirt.
+
+“Maybe. Only Crafters know,” she said. Her legs ceased their kicks. She sat up and stared blankly at Max. 
+
+“I want to try to craft something then,” he whispered. 
+
+“That makes no sense,” she replied dryly.
+
+“It’s just a theory, and what else am I going to do while we wait for the road to clear?” Max griped. 
+
+“It’s a waste of time," she said. Her gaze drifted to the folded shirt, holding for a time, before sweeping back to him, “but you are free to do what you want.”
+
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+Max laid out a heap of metallic instruments on the lawn. He paced between the common tools, eyeing each before pointing back to the shed. 
+
+“Runa, can you get the hunting knife?” he asked. She slid out of view. He collected a screwdriver, chisel, and rasp, and walked toward the building
+
+Runa stepped out of the shed, carrying a long buck knife, wrapped in a leather sheath. He slid open the door. Granny sat in her chair, hiding behind a blue-on-white child’s mitten dangling behind her needles.
+
+“Are you sure you’re ok with me breaking these?” he asked as he penetrated deeper into the room. 
+
+“Dear, I don’t have any use for them anymore," Granny said, glancing hesitantly. “But is everything all right?” 
+
+“Honestly, I haven’t felt this good in a month,” Max stated as he dumped the tools over her letters.
+
+“I’ve never seen such a small thing flip around a large man like she can," she whispered, “Are you sure you know what you are getting into?”
+
+“That decision was made for me," Max grumbled.
+
+She looked down at the half-finished knitting project between her needles.
+
+“It’s never too late to start again,” Granny offered.
+
+Max wiped the rust from a screwdriver as Runa entered the room. She tossed the knife onto the pile, before closing the door.
+
+“I think we start with the one most likely not to do anything, so I get a handle on how it should work," Max stated.
+
+“So the screwdriver then?” Runa asked.
+
+“It’s also the hardest shape," Max answered and picked up the screwdriver. “Granny? Don’t worry, everything will be fine," he reassured as she hid behind her needles. With a flick of his wrist, he uncapped the marker and wrote his prescribed poem along the tool's surface. Reaching its tip, he handed it back to Runa, “Shocker, we’re out of room. Go put it back.” 
+
+She snatched it from him and slid out the door.
+
+“What is your plan, Max? What are you going to do?” Granny whispered. Her eyes peered over the partial mitten.
+
+“I’m going to bring my family justice," he muttered as his hand hovered over the table.
+
+“‘An eye for an eye makes the whole world go blind.’” Granny warned.
+
+Fire burned in Max's skin, a seething flame that found no hearth. His voice grumbled, barely able to contain the fury raging within him. His gaze brushed the letters as he saw his world ablaze.
+
+“You didn’t meet this guy. He tortured Runa, killed my family, he tried to kill me…” He seethed, his words bit with every syllable, growing in strength to a shout, before stopping as his gaze landed on the frail and elderly woman. His rage roiled beneath the surface, then cooled to a simmer.
+
+“I’m sorry you’ve had so many tribulations," Granny said. Her calm voice washed against him, unable to abate the pressure building within.
+
+He took a deep breath and pressed the burning steam out through his nostrils. Runa stepped into the room and stood patiently across the table.
+
+The soft clink of knitting resumed, accompanied by the whispered creek of a swinging chair. Max lifted a chisel and wrote carefully across its surface. He flicked the blade to himself, before offering it to Runa. She grabbed it and inspected the lettering scrawled down its flat. A poem, implying the quick speed at which it grinds, but at the cost of dulling faster.
+
+“Shall we test it?” Runa asked as she hefted the tool. 
+
+“Yeah, let’s see if it works," he responded and stood from the couch.
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+Max threw the dull knife into the dirt. It bounced, landing on its side. He paced in front of the array of useless things
+
+“I don’t get it, the downsides seem much stronger than the upsides," he grumbled and kicked a toothless saw.
+
+“Now you know why Crafters are special," Runa said.
+
+“No, we should be able to break down how exactly they are doing it," he muttered as his feet clopped against the dry ground. He clicked his heels and spun, watching Runa clean up his mess, “Maybe I’m being too blunt.”
+
+“Probably, but the weave worked,” Runa stated, drawing his ire.
+
+“Worked,” he sneered. “It destroyed every tool we touched.”
+
+“Better than I expected,” Runa replied, ignoring his fuming.
+
+He clenched his jaw, gnashing the teeth together as he picked up an old belt sander. Its dust drum pointed awkwardly to the side, directing his gaze to the knitting granny. He sighed, rotating it in his hand, as he read through his poem again.
+
+“Sorry Granny," he said and tested the words aloud, listening to his own inept poetry, before muttering, “This is the most ridiculous magic I’ve ever heard of.”
+
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+
+A ring called to Runa’s ears. A musky, sour scent flowed through her hair. Her eyes swallowed the distant blue mountains as her outstretched arms grasped the rod before her. Her grip tightened with each of its tugs.
+
+“Runa!” 
+
+She turned away from the north, holding Max’s reddening arm in her grasp.
+
+“Runa, let go!” Max screamed. She released his arm, before standing. “What’s gotten into you today?” he yelled.
+
+“I need to go," she said and left Max in the dirt, nursing his red arm.
+
+“I'll go get my stuff," he stammered and bolted upright.
+
+“No," she said and strode to the door.
+
+Max leaned on his burning arm and gasped. He winced as he pushed himself upright. He stood and bolted inside. Granny sat knitting in the living room and the radio whispered mechanized damage reports.
+
+“The lass just left," she said without looking up, “I don't think she’ll be back for a while.
+
+“Will she?” Max responded.
+
+“A quarrel between love birds?” she asked, lifting an eyebrow.
+
+“I don't think so,” Max muttered and sat next to the half-finished pile of mail. He lifted a handwritten letter as Granny’s words repeated in his mind. He stared at her with a deadpan expression.
+
+“You can't fool this granny. If a man and a woman depend on each other as much as you two do, it's bound to happen. For better or worse," she intoned as she worked.
+
+“I just think she’d rather shoot me and get it over with,” Max dryly said.
+
+“Oh don't say that," she responded, swatting the air, “She'd be completely lost without you.” Her hand slid to the radio and twisted up its volume.
+
+“...cern after the recent quakes in the Philippines, Italy, and Salt Lake City. Dr. Nielson of the University of Utah expressed concern over the Shoshone National Forest. An acceleration of ground swe…”
+
+Granny turned down the volume.
+
+“Sorry, I thought it was an update on the traffic here," she said and returned to her knitting, softly clicking the needles in silence.
+
+“It's a crazy world out there," Max said and focused on his work.
+
+The sky dimmed. The purples and reds cast their last rays as day turned to night. Granny cooked dinner as Max tore through the endless mail. He stood, with several unopened letters, and tossed them in the trash. Briskly, he walked to the door and gazed into the encroaching dark.
+
+“Staring isn't going to make her come back any faster,” Granny said from the kitchen, “You should try working on your poems, keep your mind busy.”
+
+His foot bounced and arms folded. He paced, stopping intermittently to stare into the night.
+
+“You're getting me worked up. Here,” Granny offered and walked over to Max with a spoon in hand, “try some of this.” She tugged his arm and pressed the spoon toward his face. “It's something my grandfather would make for Christmas dinner.” 
+
+Max broke his outward gaze, lowering it to the outstretched hand of the old woman. A glint of blue drew his gaze back to the window, seeing the reflection of the pot. Granny tugged him back, and she shoved the spoon into his face. Its soft yeasty tang combined with the sweetness of carrot and sausage, playing with Max’s senses and melting his frozen face.
+
+“That's quite good, what is it?” he asked, licking the steel spoon.
+
+“I can't give away all my secrets," Granny crooned with a smile, “Now why don't you work on your poems while I finish up dinner.”
+
+Max nodded and returned to his seat, snatching a book from her shelf on the way. He pored over the meaningless biography as time flowed away. Granny only interrupted him for the completed meal. He continued to read, then went into the backyard, before returning to the tome and barely cast a glance as she turned in for the night. He glanced upward and occasionally changed tasks as his body grew heavier and mind slowed.
+
+“Max.”
+
+A cold draft of air brushed his uncovered skin. Her scent lingered in his nostrils. His lids peeled open to the full sun of gold’s piercing rays. Heavenly blue orbs floated amongst the golden streams.
+
+“Max, wake up, I found a way out,” Runa’s voice pierced his ears.
+
+Her face came into focus, hover mere inches above his own. His eyes widened. His shoulders hunched. He rolled to the window, seeing the soft glow of pre-dawn light, barely illuminating the pitch mountains. 
+
+“You didn’t come home last night. Where’d you go?" he groaned.
+
+“I told you,” she stated and sat back on the coffee table, watching him with her uncaring face.
+
+“Why is it so important to leave anyway?" he asked as he shifted further down the couch.
+
+“I have to talk to Father. I have to return home with you,” she said.
+
+Max shifted on the couch, grunting as his weary eyes landed on her.
+
+“Home?" he groaned, wiping his eyes. “Can’t we stay a little longer?” 
+
+“No,” she responded.
+
+“Can't you talk over your phone?” Max countered.
+
+“No, this message must be delivered personally," she stood and moved to the rocking chair.
+
+“Why?” Max asked.
+
+Runa rocked on the chair, as the bags under her eyes became apparent.
+
+“It was an oath,” she said. Her voice drifted as she adjusted her blue cap downwards.
+
+“I thought you said no more secrets," Max complained.
+
+“I have no choice,” Runa whispered .
+
+“Can we stay one more day?” Max yawned, rolling into the couch.
+
+“Yes," she muttered.
+
+	Granny peered into the living room. Max sprawled against the corner of the couch, head tilted towards the ceiling. He snored softly in the morning glow. A blue cap with blonde hair protruded from the back of her rocking chair, slumping sideways. Granny shook her head and meandered silently past the bizarre couple. 
+
+
+<div class="scene-change" ><img src="/images/books/valkyriextruck/bw-tiremark.webp" alt="tire mark" /></div>
+
+
+Prismatic light scattered across the ceiling. Snow gently descended against the white covered lawn. Mail and paper danced to and fro in the wind. The smell of rotting eggs permeated the air. Granny laid crumpled in the corner. Cuts, scrapes, and bruises covered her blood soaked body. Shattered glass lay strewn across the floor. Bloody smears covered Runa’s face. A warm, wet liquid rolled down Max’s head. He touched it, revealing a scarlet stained hand.
+
+Runa leaped from the rocking chair, pulling bits of glass shards from her arms. She cupped her hands around her mouth and soundlessly moved her lips. Dashing forward, she pulled him to his feet. The world warbled. His legs failed beneath him, collapsing him back onto the glass covered couch, and slicing his arms. He recoiled from the cuts, screaming silently, and completely unable to feel vibrations in his throat. The room shifted and curled as sound sensation filtered into his ears.
+
+Roaring, endless ceaseless roaring, rattled through his head, drilling an unyielding pain that his hands failed to extinguish. His ears rumbled inside his head. His stomach churned with vibration. The air oscillated against his skin, tugging at every hair, and shifting every cell.
+
+Runa’s blurred and twisting shadow returned into view and shoved something soft into Max’s ears, The roar barely dimmed, but her warped shape subtly began to coalesce back to its solid form. She grabbed his hand again and heaved him to his feet. His legs wobbled slightly as the world around him turned.
+
+A glint of metal drew his eyes to Granny’s undulating shape. He reached toward her as Runa hauled him through the door. He yelled ineffectually. Runa dragged him outside, through the jagged snow as it pulled and snagged his canvas shoes. With a heave, she hurled him into his seat and slammed the door behind herself. The vibration cut across his skin, as his continued scream became audible.
+
+“... can’t leave her in there!” He shouted.
+
+Runa’s sunlit form faded against a cloud of silent purple-white bolts of lightning. She kicked the engine on, inaudible against the ceaseless noise, and drove.
+
+<div class="button-spacing"></div>
+
+<script>
+
+
+
+</script>
+
+<style>
+.button-spacing {
+height: 10rem;
+}
+picture {
+display: block;
+width: 600px;
+}
+h1 {
+text-align: left;
+    @apply text-xl; 
+}
+.chapter-head {
+height: 500px;
+opacity: .8;
+position: absolute;
+top:-150px; 
+right:-75px;
+
+}
+.chapter-divider {
+margin-top: 200px;
+
+}
+.image-container {
+position: relative;
+}
+
+</style>

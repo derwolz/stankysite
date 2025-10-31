@@ -1,0 +1,413 @@
+
+---
+title: "Choice"
+---
+
+
+
+<div class="image-container">
+<picture class="chapter-head">
+    <source
+        media="(min-width:800px)"
+        srcset= "/images/books/valkyriextruck/chapters/chapter12/heading.webp"
+        />
+    <source
+        media="(max-width:799px)"
+        srcset="/images/books/valkyriextruck/chapters/chapter12/heading-s.webp"
+        />
+        <img
+           src="/images/books/valkyriextruck/chapters/chapter12/heading.webp" 
+           alt="delivery truck"
+           decoding="auto"
+           />
+        </picture>
+</div>
+<div class="chapter-divider"></div>
+
+# Chapter 12: Choice
+
+“How many days has it been?” 
+
+Max stood, alone, by the desk, stretching his back. The unyielding rubber of fresh combat boots pressed against his foot.  A cuff bound him to a corner of the desk,  preventing him from relieving his aching spine. Dozens of pages with scribblings lay scattered across the floor.  Behind him the door clicked as footsteps echoed in the office.
+
+“So what? You’re a poet?" the doctor scoffed as he sat on the table next to Max. “These poems are terrible, with the same predictable rhyme scheme, forming the same stanzas, your meter is inconsistent, and your subject matter is too repetitive,” he jested, shaking his head, before flicking a paper to the floor, “No wonder your girl shot you. I’ve half a mind to, and save the world of literature as a whole.”
+
+ “I only picked up the hobby recently,” Max muttered 
+
+“There is a clear progression, though, almost like telling a story,” Dr. Henderson continued as he rifled through more papers. “A guy and a girl travel to a cottage on a hill? Could it be more cliché? Seems to me, it's about your girl, Runa.”
+
+“You got me,” Max chuckled nervously as he nudged a paper beneath the desk.
+
+“Your obsession with her is unhealthy,” Dr. Henderson explained. “Almost psychotic.”
+
+Max sighed, then cast his gaze to the window. Gray filtered through the blinds like iron bars of dim light.
+
+“You’d feel the same.” he muttered.
+
+The doctor’s eyes lingered on the back of Max’s head. Before he swiveled on the desk and rose.
+
+“Y’know, I know a poet. He never published, but the stuff he writes is beautiful,” the doctor said. He sat in a chair, before tossing a leg on the desk. “He’s a genius too, we would have never made it this far without him.”
+
+“I don’t know,” Max muttered. 
+
+“What’s the matter?" the doctor asked. “He could be a great mentor.”
+
+“No,” Max said. He glanced down at the doctor’s upturned brow and leaned forward. “I’d be happy to meet him,” he sighed.
+
+“Good, but first we need to talk about this girl,” doctor Henderson started. He sat up in his seat, and leaned forward to match Max’s posture. 
+
+“Runa,” Max corrected, shifting his gaze back to the window.
+
+“Yes,” the doctor sighed, rolling his eyes, “How dead set is she on killing you?”
+
+“No, she’s dead set on shooting me,” Max corrected, letting his leg drift to a still.
+
+“Is there a difference?” the doctor queried.
+
+“I don't know. Sometimes…” Max’s words paused as a dry chuckle escaped his lips, “it’s like she’s from another world.” 
+
+Doctor Henderson frowned. He sat back on his chair, brushing the edge of the watch on his wrist. His eyes moved to the yellow armband affixed to Max’s bicep.
+
+ “Have you thought anymore about my offer?” he asked.
+
+“Yeah, but I don’t think I can.” Max said, as his legs swung beneath the desk.
+
+“Can you convince her to stay?" the doctor asked.
+
+“She’d sooner dig a tunnel by hand straight to St Helens,”  Max replied.
+
+The doctor stood from his seat.
+
+"We’ll escort you. Once we finish mopping up the NGs, we’re shifting west,”  He said, before walking to a map on the wall. 
+
+“I don't understand, who are these NGs? Why are you fighting them?” Max asked. The doctor spun on his heel, and straightened his back.
+
+“America has been at a breaking point for decades. Everyone was waiting in the wings for something just like this,” he explained.
+
+“Like the volcano?” Max asked.
+
+“A true black swan. Something irreversible that ripped the choices from the hands of our uncaring ‘leaders’ and…”
+
+“I don't care about politics,” Max muttered.
+
+Henderson stared across the room. His face drooped. He leaned against the wall, carefully studying Max.
+
+“You’re too young to know what they did to boys like you,” the doctor muttered.
+
+“I’m not them.” Max responded.
+
+“I can see,” the doctor said. He pulled up a chair and sat next to Max, leaning forward just enough to let the brown of his eyes glint in the fluorescent light. “You need a reason to live, or you’ll die like an animal.”
+
+ The doctor’s words sliced into Max’s aching spine. His gaze focused on the doctor's pressing glare. He shifted away, putting distance between them. The doctor softened and gently grabbed Max’s knee.
+
+“After Runa shoots you, what's your plan?” he asked.
+
+Max glanced at the blackened blinds, split by gray shafts.  His shoulders sagged and legs ceased their swing. 
+
+“I don't care. It doesn't matter anyway,” he grumbled. 
+
+“What about settling down? Wife, kids, land…”
+
+“It doesn’t matter.” Max reiterated.
+
+“Doesn’t Runa care? She left you that,” he said, pointing to the sash wrapped around Max’s waist. “You don't see many like it.”
+
+“You don’t see these types of accessories anywhere.” Max said, chuckling to himself. The surgeon cocked a brow at the comment.
+
+“Look, my point is she clearly cares about you.” he said.
+
+“Like a scientist cares about a lab rat.” Max sniped. A beam of golden light slipped through the blinds, and splattered onto the ground. His eyes widened and vision blurred. “The sun,” he gasped, voice cracking. 
+
+“You have to believe,” the doctor said.
+
+Max covered his eyes and leaned forward, resting an elbow on his leg.
+
+“I want to…” he said.
+
+“Then believe,” the doctor said, shaking Max’s leg. “There’s already too much death. Don't waste a perfectly good life.”
+
+Max pinched his brow and slowly wheeled his head away, staring at the poems beneath his feet.
+
+“She clearly cares. You can reach her,” the doctor said. 
+
+“I don’t know,” Max replied, softening his voice, “It’s like trying to read the emotional state of a refrigerator, does it wail because it’s upset?”
+
+“I think your interest in poetry is seeping into your words.” The surgeon said, “She’s human, like you and me.”
+
+Max clicked his tongue. He picked up a pen from the table, and toyed with the cap. The surgeon rested his right hand on his belt.
+
+“She can be persuaded,” he continued.
+
+“I don’t know, maybe,” Max answered.
+
+“Can you try? It’s a real future you could build,” The doctor said, shifting forward in his seat, and clasped his hands. “Not a dead end. There’s more than enough for the both of you to be happy.”
+
+Max touched the sash in his pocket, feeling the residue of her warmth, remembering the whispered song of her breathing. A dark morass crept back through the bar-like blinds, swallowing every speck of gold and leaving the room drenched in sterile hues.
+
+“I don’t know,” he said. “I d… can’t care about that.” His thumb rubbed the cloth, as his eyes wandered across the closed window. The surgeon leaned back in his chair, and scratched his chin.
+
+“But you do care, and that's why you need to convince her to stay,” he pressed. “Do you know where you were planning on meeting? I can send you with a squad to pick her up.”
+
+“Here.” Max whispered, still lost in thought.
+
+“What? Did you say ‘here’? Do you even know where ‘here’ is?” the doctor growled. His gaze hardened into a glare, as he leaned forward in his seat. Max’s eyes drifted to the doctor, before widening. 
+
+“Idaho city, wherever that is…” Max started.
+
+“How did you relay that?" the doctor pressed.
+
+Max shifted back on the desk. His eyes darted frantically, before landing on the papers scattered across the floor. 
+
+“I don’t know, but she’s coming here.” Max relented.
+
+“How do you know that?" the doctor demanded.
+
+“She’s unstoppable.” Max said, “I saw her cut down 8 men in moments. She said she’s coming for me, and I believe her.” The doctor’s brow tilted upwards.
+
+“I’m getting tired of these childish games.” he said, and stood.
+
+“It won’t feel childish if she finds you before me,” Max implored, “Let me talk to her, maybe I can convince her to stay.” 
+
+“First, you reject my offer, and now you accept it as soon as information leaks.” The doctor  growled. “She must be skilled, if you two actually escaped the National Guard.” He walked to the center of the room, before turning and squaring his shoulders. “This is exactly how this conversation with your girlfriend will go down. You will approach her with a squad of fully armed men and ask her to stand down. If she doesn’t, we shoot her.”
+
+“Make it two or three, and she *might* reconsider violence.” Max warned, “She doesn’t seem to enjoy killing us, so more bodies might make her more wary.”
+
+“What?" the doctor scoffed. His gaze bolted downward, and his voice rumbled as he continued. “No, I determine how this is going to go down. I’m not playing these games.” He marched to the edge of the desk, and slammed a fist into the faux wooden surface. He leaned to Max, layering his whispers with daggers. “I don’t know what your play is, but this doesn’t look good for you or the girl.” Max chuckled nervously, as he twisted away. He shifted to the side, distancing himself from the surgeon.
+
+“This is the safest way to deal with Runa,” Max reassured. “Please, let me talk to her before any more soldiers get involved.”
+
+“Don’t move.” The doctor commanded.
+
+“I’m not going anywhere” Max said and flashed his cuff.
+
+The doctor turned and left, closing the door with a loud clack. Max’s eyes swept the paper on the floor. He leaned over the side of the desk and picked a clean looking page off the ground. He quickly scratched out words and rhymes. An outline formed. The sound of talking grew, followed by a tumult of footsteps. The knob twisted, and the surgeon walked in with two uniformed soldiers. Max flipped his half finished poem face down on the desk, and sat on it.
+
+“Commander, it’s one girl,”  The left flanking man said, “Surely…” 
+
+“Silence.” The doctor cut him off with a flick of the wrist. He turned to Max, “You’ll be stationed outside the perimeter on the south side of town until your girl shows. You will return before nightfall every night. I have an undisclosed number of soldiers watching you in case you try to desert.” Max’s head sunk between his shoulders. He squeezed the pen in his palm. “Is that understood?" the doctor finished. Max slipped the pen into his pocket.
+
+“Yes,” he replied doggedly.
+
+“Yes, sir,” the doctor corrected. Max stayed silent, staring at the floor. “You’ll learn. You don’t need a pen down there. Leave it,” He growled. 
+
+“Why?” Max muttered.
+
+“You’re a soldier of the Idaho Republican Guard. Now leave it,” The surgeon stated.
+
+“Wait, I didn’t say I was going to join.” Max exclaimed. The surgeon ignored his protest, turning to a soldier to his right. 
+
+“Corporal, take him down to the gate. Have him do exercises until sundown. No jogging. His leg is still fractured. Push him to his limit and report back results.,” He commanded. Max winced as the man’s words cut him.
+
+“Sir!” The soldier exclaimed. He walked up to Max and uncuffed him. “Follow me, I’ll take you there.” Max rubbed his aching wrist as his gaze drifted to the doctor.
+
+“What happens if I don’t go?” Max challenged.
+
+“Don’t make this harder than it already is.” The doctor barked, “If your girl shows, you just have to convince her to talk to me. If she corroborates your story and is willing to help, then you’ll stay here until we know you're safe.” Max’s eyes darted to the door. “Don’t try it.” The doctor growled. Max stuffed his hands in his pocket and grabbed the pen inside.
+
+“Is this how you win trust?" he grumbled.
+
+“You’ll thank me for this one day,” The doctor coaxed.
+
+The soldier lifted Max to his feet.
+
+“Drop the pen,” The doctor said. 
+
+The soldier yanked Max’s hand out from his pocket, The other yanked the pen from Max’s grasp. The doctor turned to the corporal. “You’re dismissed.”
+
+The corporal saluted and grabbed Max by the arm. He dragged him out the door, leading into a hallway. Doorways stood to either side as they walked. Stacked children’s chairs and tables filled the corners of every room. Finger-paintings lined the walls. Gray-blue light trickled in from the windows.
+
+“Why are we in a school? Where are the children?” Max asked, trailing behind the corporal. Only marching boots answered his questions.
+
+Light stung Max’s eyes. The sun beamed through a thin cloud. Blue slits travelled across gray sky. The world was a brighter gray-covered green, with ash neatly cleaned from the streets. Sulfur tainted the brisk pine smelling air. Civilian trucks littered the small parking lot, spray-painted in a camouflage pattern. In the distance, a yellow-gray structure stood in the middle of the roadway. Two uniformed men flanked the entrance to the school.
+
+“This way,” the corporal said, as he motioned to a truck, “I’m Corporal Wallace. You’ll be reporting to me from now on.”
+
+“I don't know why he’s so intent on having me.” Max griped.
+
+“I’m going to be frank," Wallace started. “We overstretched ourselves after the National Guard’s base fire. Now the front stalled and …”
+
+Liquid sprayed Max’s face. He reached up and touched it, peeling away bits of flesh and blood from his skin. Every muscle tensed. Every fiber of hair jolted on end. He hit the dirt, landing next to the headless body of Wallace. A rolling crack echoed off the mountain’s sides. 
+
+Shouts and distressed cries erupted from the two soldiers. Their voices stopped suddenly, followed by the snap of air, and a soft, distant thump. Blood trickled down from the school. An eerie silence muffled all but the sound of his breathing.
+
+A cork popped from the treeline, followed by an explosive burst down the streets. Screams and gunfire ripped out after it. Green tracers peppered the trees. An overwhelming and constant roar of gunfire tore through the sleepy valley. A copper glint caught Max’s eyes as a set of keys laid in the corporal’s dead hands.
+
+A relentless assault of cracking and snapping air worked its way up the hillside. The whine of a jet engine grew closer, as the ground began to rumble. Max crawled in the chaos, approaching the standard cab truck closest to him. Blood drench his shirt, sticking it to his body. 
+
+The firefight grew louder. Max’s heart pounded in his chest. He pressed the key into the slot, and twisted. It popped open. The cab provided scant relief to the crackling air. The barrel of a tank rolled just over the hill. The whine of its body deafened everything but the slam of its chain gun firing into the tree line. 
+
+The window shattered, spraying glass across the cabin. The whine drilled into Max’s ears. He twisted, seeing the doctor inside the school building, yelling directions, while frantically pointing a pistol.
+
+Max raised his hands and the surgeon fell to the ground, just inside the school’s front door. A soldier behind him ducked behind the wall. Amber light erupted from the inside. Max returned to the wheel, and shoved his key into the ignition. The truck roared to life and he slammed the accelerator. He twisted, dodging the backend of the tank and continuing down the small town’s main road.  
+
+Chaos reigned. Tracers fired in every direction. The whines of turbine engines waxed and waned as he passed military vehicles firing explosives into the trees. Soldiers flitted through the streets, seeking cover, and skulking in every alley. Sandbags and armored vehicles choked every egress. Men covered every copse of trees. The city opened to the right, revealing a scrambling crew preparing two helicopters. 
+
+Ahead, armored trucks blocked the street, parked end to end. A squad of men surrounded the vehicle, their weapons, pointed out of the city, firing into the distance. One of them spotted Max, and waved at him to go back. In an instant, his body hit the ground. Blood quickly pooled around his corpse. Gunfire drowned out the shouting and one by one, each of the men in the squad fell, leaving nothing, but scattered corpses. 
+
+Sandbags book ended the vehicles, leaving no path a truck could travel. Max leaped from the cab  and strode past the dead. He squeezed between the bumpers before breaking into a sprint. The splint tore at his leg. He fell, and yanked it off. A violent burst of wind passed over him as a helicopter’s blades sliced through the air. He stood, and ran down the asphalt.
+
+A massive hail of explosions rattled the teeth in Max’s skull. Trees split in the distance, crushed under the canon’s fire. A missile streaked away from the aircraft, before a small puff of white erupted from the tail rotor. The vehicle wobbled, winding as it erratically swerved into the distance, firing rockets into the cloud covered sky. It fell into the trees, and a mushroom of flame belched upward from its grave. 
+
+Max’s legs burned. His heart pounded in his chest. The cold air bit into his lungs and sweating back, as he fixed his gaze forward. His shoulder throbbed as the gunfire faded in the distance.
+
+A diesel engine rumbled behind him, vibrating the air, and an armored truck rose over the hill behind him. His legs froze as he looked backwards, tripping himself and  rolling into the asphalt. The vehicle surged ahead of him, cutting him off and stopped. The back ramp clattered onto the asphalt, and a squad of men poured from its opening. 
+
+The air punched Max. He covered his head, as screams and moans echoed in his ears. A warm sensation flowed along his thigh.  He grabbed it, as pain erupted across his leg. Several snaps cracked the air, and the wails of the dying ceased, leaving Max’s own screaming alone among the dead. 
+
+“Dig it out,” Runa’s voice sliced through the air
+
+Max stopped, the pain temporarily forgotten. Her golden hair shined against the gray and blue sky. A dark cloud passed over her head, casting a shadow over her blue eyes. Gracefully, she knelt beside him, wrapping her arms around his body, before hauling him upward.
+
+Her shoulder drove the breath from his lungs. Searing pain returned to his bleeding leg. He gasped, as he grabbed the belt at her waist. 
+
+“Did you grenade me?” Max hissed.
+
+Runa slid to a body, jostling him sideways, as she tore open a cylindrical pouch and pocketed the small metal tube inside. She snatched a rifle from the dead man, and passed it up to Max.
+
+“Yes,” she stated, “Carry this.” She stood, driving her shoulder into his gut, before sprinting to the treeline. 
+
+“You’re relentless as ever.” Max grumbled. The truck slowly shrunk away, fading behind a wall of pine. Behind them, a swishing cut of helicopter blades beat the air. Runa tossed him to the ground, spun and sprinted a short distance into the trees. He hit the dirt with a thud and a grunt, grabbing his injured leg.
+
+“Get behind a tree.” Runa hissed, aiming down the leaf sight of her rifle. Max rolled to a side, barely concealing himself behind a stump. 
+
+Runa stood, and sprinted past a few trees, spun, and her rifle cracked out, followed by an explosive hail of canon fire from the helicopter. Max watched in horror as the cloud of earth and ash erupted around her. Chunks of dirt scattered across his prone body. The deafening shot blotted out all sound but the distinct cork pop of a wine bottle. The cannon fire ripped across the trees, scattering up the hillside before the bursts disappeared out of sight. The whine of the helicopter’s engine sounded over the ravine, as it peeled away into the distance.
+
+Dust lingered in the air, lit brightly by a ray of light. Splintered trees and branches lay scattered across the forest floor. The cloud dispersed and Runa stood in the center of it, untouched amongst the chaos. The launcher under her barrel wisped smoke. The tip of her rifle followed the helicopter out of view, before the clunk and slink of a new round entered. She slung the rifle to her back, before walking to Max. Her pristine hand extended toward him, with the light encompassing her head in a circle of gold. 
+
+Max reached up, then retracted, seeing his blood and ash covered hand. His eyes descended to the dirt and rocks covering his body.  
+
+“Come on, we gotta move,” She said. Sweat dripped from her stoic face, leaving white streaks across her ash covered cheeks. Her chest rose and fell with every breath. Her icy gaze rested on him, “What are you waiting for?" she asked, before gesturing to him with her hand again. Uneven cracks and jags scrawled across her dirt encrusted nails. 
+
+Max grabbed her hand, and she lifted him onto her shoulders. Runa ran, and his leg bounced in the air, fabric caught on his thigh wound, stabbing him intermittently.  Shadows stretched across the forest, as the sun dipped below the mountain. She stopped and laid him against a tree. Pain shot up his foot, forcing out a yelp.
+
+“There’s something in my boot.” Max yelled. He pulled it off and dumped a nail-sized shard into his hand, coated in blood.
+
+“My sash,” Runa said, and pointed with a hand, covered in a grimy black and red gauze. Max untied the knot of the sash and tossed it to her.
+
+Runa snatched it, then inspected the cloth. Max laid back, watching as she worked it over. She peeled the crusted, dirt covered bandage from her hand, with her face wincing. Blood poured down her arm, with a red circle in the center of her right hand. Max’s throat tightened. She reapplied a goop white-translucent before rewrapping with her sash, before producing a bulging red pouch. Her finger dove into the hole of his pant, and tore the fabric wide open. She poured water onto his leg, then inspected it. She smeared the paste across the wound, and slapped a large bandage onto his thigh. Max yelped. She leaned back and took a swig from her canteen.
+
+“You killed the doctor, right?” Max whispered.
+
+“I’m assuming the man you were talking to when I started? Yes,” Runa said. She returned to her bag, and pulled out two small packets with ‘M.R.E.’ written on the side. She tossed him one.
+
+“No, he was the guy with the pistol,” He explained. She tore open the packet, and dug into it with a finger, quickly emptying its contents. “They tried to conscript me,” Max continued as he held the brown packet in his hands. He looked up, staring into purple clouds. “Part of me wanted to stay, a warm bed…” he trailed.
+
+“I thought you had no interest in the military,” Runa replied, as she pulled another packet of food from her bag.
+
+“I lied, I just hated you.” Max admitted.
+
+“Okay,” she said. “Eat your food, we’re moving soon.” She dug into her meal again. Max tore open his package and scooped a finger into the bag, smothering it in a yellow-brown mixture of macaroni noodles. Hot spices bit him as he ate in silence. Runa’s hand slid into view just as he finished.
+
+“Let me test my leg first,” he said, and propped himself against the tree. He paced, feeling only fleeting stabs in his thigh.
+
+“Good,” Runa said. “Keep up.” She turned, and jogged down the hillside. Max followers slightly behind her. The stiff rubber wore at his heel. The arch of his foot ached with every step. The purple clouds faded to red, as the last of the sun dipped below the mountain. He gripped his shoulders, bracing himself as the chilly air bit into his skin. The trees descended to black, leaving only the gray of dirt, and the gold of Runa’s swaying hair lighting the way. 
+
+“You never answered me,” Max said between pants. “Why do you fight?”
+
+“This again,” she stated.
+
+Runa slowed as she reached the crest of the hill. She slipped up to a tree, and peered over the side. Her hand motioned him forward. Max looked over the edge. The slope plummeted downward into a black asphalt road. The silhouette of pine stood on the other side. Her hand pointed downward, then motioned across the pavement, into a small brush on the far side. Her finger darted forward, and she sprinted down the hill. He bolted afterward, his feet slipping as he ran. Rocks and pebbles tumbled, disappearing into the pitch below. 
+
+ Runa stopped at the edge of the road. Her head whipped up and down, before crossing. Max ran afterward and slid into cover. She stuffed a phone in her pocket. The sound of running water trickled in the air, accented by the swish of pine branches.
+
+“River. I can get across, but you need a bridge,” She stated. Her head darted up the road. “Follow.”
+
+“Ok, but are you going to answer my question?”  Max probed. Runa stood, ignoring his question, and jogged up the road., then stopped as the air shifted. Her face tilted upward, as she took several breaths through her nose. Max cocked a brow, smelling the sulfur laced pine in the air.
+
+“Anything wrong?" he said.
+
+“It’s nothing, just thought I smelled something.” Runa responded. Her finger swept down a fork in the road, leading to a bridge. The breeze stopped, silencing the shifting tree branches. The air stood silent, broken only by the crack of ash, and their breath. 
+
+The wooden structure clacked under his feet. Rolling water passed underneath him, quickly fading into the silent night. Runa stood, waiting at the tree line, with her hand attempting to block the glow of her phone. The branches above him swayed in the air.
+
+The scent of burnt human hair flooded Max’s nostrils. Vomit spewed from his mouth, He doubled over, leaning against a tree as the acidic stench of chilli-mac scarcely dulled the acrid char. He spat leftover chunks into the ash. Runa pinched her nose, and walked beside him.
+
+“We can’t stay on a road. We have to keep moving,” Runa stated. She grabbed his free arm, and pulled at him. Burnt keratin flooded his nose and mouth. His feet barely held him steady, as she tugged him further into the copse. Ahead, an orange and green glow burned beyond the trees. A thump rhythmically settled in his ears. She set him on the ground, as her gaze fixed to the eerie light. 
+
+“What are they doing up here?” Max said, flicking spittle into the dirt.
+
+She leaned down, ignoring his words, and brushed away the top layer of ash from the floor bed. Her fingers pinched the dirt, before shoving it up her nose. “Do it.” She stated, as she filled her other nostril. Max stuffed a pinch up his nose, dulling the smell of burning.  He pulled himself up.
+
+Greens and oranges danced amongst the silhouette of trees. Thick black smoke barreled upwards, out of sight. He crawled toward the light. Every hair stood on end as he reached the edge of the treeline. 
+
+A cacophony of screams rolled across an open field. Twisted human limbs branched upward as vines,  with hands clawing to escape. Faces of men, and women, young and old, writhed within aberrant green and orange flames. A heap of burning bodies, as large as a hill, stood in the center of the meadow. The light cast black shadows of armed men, as they emerged from a canvas-backed truck. A shove tossed a girl, no older than Sally, into the dirt. Her ginger hair blended into the fire, before a kick sent her to her knees.  
+
+Max bolted forward, before Runa seized his leg with an iron grip. He turned, and she blankly stared back toward the field.
+
+Soldiers funneled more from the truck, forcing each to kneel like supplicants before  a profane altar.
+
+
+
+Blood drained from Max’s head. Every muscle in his body coiled, ready to dart back into the trees behind him. A chorus of gunshots roared out, and the little girl slumped against the ground. A soldier lifted her unceremoniously, and threw her onto the blaze. He ground his teeth. A hand touched his shoulder and he yelped, twisting under an iron grip. His eyes landed on Runa, as her fingers dug in.
+
+“Let’s go.” She stated.
+
+“What’s going on here?” Max growled as he tugged his hand free.
+
+“Harvest,” Runa stated. She whispered a chant in her guttural tongue, “The final battle.”
+
+The words crashed into him. He returned to the pyre, with his verdant eyes drinking in the scene.
+
+“How could they convince anyone to do this?" he growled.
+
+“This is the work of the traitors, the fault is our own.” Runa said. She tugged his shoulder one last time, before crawling back into the woods. He lingered for a moment, watching as the trucks left, and more arrived. He crept back into the trees, following her.  
+
+“Did the doctor not know?” Max grumbled. The ash that tugged at his skin, the burning arch of his foot, every pain and scent sensation vanished. A fire rekindled in his chest and spread through his limbs. Past the edge of the trees, more lights blazed in the distance, each illuminating their own barren meadow.
+
+Runa stopped and motioned Max to the edge of the treeline. Her finger darted to a truck  down the street. 
+
+“We’ll take that one.” She said, before suddenly retracting her hand. 
+
+A man, dressed in black from shoulders to his shoes, stepped out from behind the vehicle. The white pages of a book flashed in the truck's headlights. 
+
+Max unslung his rifle and placed the red dot on the man’s head. His thumb pressed down the safety. His finger swept to the trigger. He squeezed — and the trigger failed to budge. His finger clamped down harder, crushing some hard, yet slightly yielding resistance. The safety clicked. He looked down, seeing Runa’s finger retract from behind the trigger. She flicked his brow, before motioning to the truck. 
+
+Max returned to his sight, and switched the safety off. His grip turned white, as he visually followed the man in black. She readied her rifle. The man passed and disappeared into the trees. Max clicked back on the safety.
+
+“Stick to your pen.” She stated. She stood as Max threw the rifle to his back.
+
+“I know,” He groaned bitterly. “I know.”
+
+Runa motioned to the next tree line beside the truck and made a quick check of the intersection beyond the treeline. She signaled three fingers… two fingers… and paused as another truck rounded the bend. Runa crept backwards, motioning for Max to stay down. The engine rumbled as it passed. A glint of eye whites shone from the pitch, with people, too dark to identify, huddled in the back.  Max gut twisted, with his grimace. Runa flicked her hand in front, then closed it into a fist. She burst into an explosion of movement. 
+
+The world blurred around Max as he ran, the absurdity, the areality of all he experienced flooded him. Each wavering step found its footing. Every breath chilled the growing iron in his gut. He hit the treeline, rolling into a crawl and landing slightly behind Runa. She scuttled toward the truck, with her golden hair marking the path. Max scrambled with all his might to catch up.
+
+
+
+<div class="button-spacing"></div>
+
+<script>
+
+
+
+</script>
+
+<style>
+.button-spacing {
+height: 10rem;
+}
+picture {
+display: block;
+width: 600px;
+}
+h1 {
+text-align: left;
+    @apply text-xl; 
+}
+.chapter-head {
+height: 500px;
+opacity: .8;
+position: absolute;
+top:-150px; 
+right:-75px;
+
+}
+.chapter-divider {
+margin-top: 200px;
+
+}
+.image-container {
+position: relative;
+}
+
+</style>

@@ -10,8 +10,52 @@ import Chapter2 from "./chapter/chapter2.svelte";
 import Chapter3 from "./chapter/chapter3.svelte";
 import Chapter4 from "./chapter/chapter4.svelte";
 import Chapter5 from "./chapter/chapter5.svelte";
+import Chapter6 from "./chapter/chapter6.svelte";
+import Chapter7 from "./chapter/chapter7.svelte";
+import Chapter8 from "./chapter/chapter8.svelte";
+import Chapter9 from "./chapter/chapter9.svelte";
+import Chapter10 from "./chapter/chapter10.svelte";
+import Chapter11 from "./chapter/chapter11.svelte";
+import Chapter12 from "./chapter/chapter12.svelte";
+import Chapter13 from "./chapter/chapter13.svelte";
+import Chapter14 from "./chapter/chapter14.svelte";
+import Chapter15 from "./chapter/chapter15.svelte";
+import Chapter16 from "./chapter/chapter16.svelte";
+import Chapter17 from "./chapter/chapter17.svelte";
+import Chapter18 from "./chapter/chapter18.svelte";
+import Chapter19 from "./chapter/chapter19.svelte";
+import Chapter20 from "./chapter/chapter20.svelte";
+import Chapter21 from "./chapter/chapter21.svelte";
+import Chapter22 from "./chapter/chapter22.svelte";
+import Chapter23 from "./chapter/chapter23.svelte";
+import Epilogue from "./chapter/epilogue.svelte";
 
-const Chapters = [Chapter1, Chapter2, Chapter3, Chapter4, Chapter5]
+const Chapters = [
+  Chapter1,
+  Chapter2,
+  Chapter3,
+  Chapter4,
+  Chapter5,
+  Chapter6,
+  Chapter7,
+  Chapter8,
+  Chapter9,
+  Chapter10,
+  Chapter11,
+  Chapter12,
+  Chapter13,
+  Chapter14,
+  Chapter15,
+  Chapter16,
+  Chapter17,
+  Chapter18,
+  Chapter19,
+  Chapter20,
+  Chapter21,
+  Chapter22,
+  Chapter23,
+  Epilogue
+];
 
 let current = 0;
 let showPopup = false;
